@@ -1,111 +1,405 @@
 id,name,created_at,advertisers_entities.id,entities.short_name,countries.name,countries.alpha2,advertisers_platforms.advertiser_platform_ref,advertisers_platforms.advertiser_platform_name,platforms.name
-6b15c547-aa6a-4e5e-bff2-259e87fa97fe,Σωτήρης Ιωάννου - Βουλευτής Λάρνακας,2023-01-12T14:56:59.264Z,e683d545-5e22-4566-8c57-f64b8b1525ba,ELAM,Cyprus,cy,105970621764824,Σωτήρης Ιωάννου - Βουλευτής Λάρνακας,Facebook
-3aaddd2b-757d-41f4-a75a-dd5cc60a01ee,Κίνημα Αλληλεγγύη,2022-08-16T15:24:28.976Z,7cae4599-2816-49d6-9e0d-1c04eb6ec813,AKEL,Cyprus,cy,1184280198249250,Κίνημα Αλληλεγγύη,Facebook
-4a0e21c5-9361-45c8-82fb-7562aec71a25,Ανδρέας Μαυρογιάννης - Andreas Mavroyiannis,2023-01-12T14:56:58.699Z,c0cd652f-5409-44d6-8daf-7b7fe9890716,AKEL,Cyprus,cy,104730922313108,Ανδρέας Μαυρογιάννης - Andreas Mavroyiannis,Facebook
-5d139f6c-19a6-41e4-b715-1c8f9688c106,Στέφανος Στεφάνου,2023-01-12T14:56:59.216Z,b162f9bb-d6c4-4acc-ab3b-d831ef3d04ed,AKEL,Cyprus,cy,107389055063575,Στέφανος Στεφάνου,Facebook
-95ddee3c-040f-4bef-b2e5-3df5e02d165d,AKEL Türkçe,2024-02-16T06:04:19.682Z,522939f6-fdff-4e88-a2ef-3cfa0da2fec3,AKEL,Cyprus,cy,811609932267686,AKEL Türkçe,Facebook
-96fb62dc-a6b0-41d3-accc-309874ea8f97,Ανορθωτικό Κόμμα Εργαζόμενου Λαού,2022-08-16T15:24:28.933Z,418cea91-e324-4e86-a95f-5c4e7b54ee58,AKEL,Cyprus,cy,117799504920552,Ανορθωτικό Κόμμα Εργαζόμενου Λαού,Facebook
+a8264f93-4105-41b9-b7f3-4320686221d1,Δημοκρατικό Κόμμα,2022-08-16T15:24:28.952Z,4b4eb29b-cda2-4a32-a512-2435f9cd3f5a,DIKO,Cyprus,cy,293704380825571,Δημοκρατικό Κόμμα,Facebook
 13e776c6-7272-4836-880d-10361979e683,Δημοκρατικός Συναγερμός,2022-08-16T15:24:28.918Z,c6ee67da-83c2-4179-80f9-4efb4b485298,DISY,Cyprus,cy,681898395256608,Δημοκρατικός Συναγερμός,Facebook
-359955f6-b16e-4b5e-9ab8-a23e6e183591,Νεολαία Δημοκρατικού Συναγερμού (ΝΕΔΗΣΥ - NEDISY),2023-01-12T14:56:59.201Z,f93e4834-6a7a-4638-a85a-1896c6fbda76,DISY,Cyprus,cy,173342948271,Νεολαία Δημοκρατικού Συναγερμού (ΝΕΔΗΣΥ - NEDISY),Facebook
-3b1b5101-deeb-4487-a5e7-fac6f9f69a58,Νίκος Σύκας - Nikos Sykas,2023-01-12T14:56:59.635Z,31aaee62-6c73-4d99-bbcb-48f50718d000,DISY,Cyprus,cy,455359674534839,Νίκος Σύκας - Nikos Sykas,Facebook
-3e8eae03-b6aa-4a69-8a6d-037ecc513292,Dr. Eleni Stavrou - Δρ Ελένη Σταύρου,2023-01-12T14:56:59.483Z,8021d29c-39dc-4764-968f-6047c97da78b,DISY,Cyprus,cy,822417261217421,Dr. Eleni Stavrou - Δρ Ελένη Σταύρου,Facebook
-60c13a67-65d2-4088-bd42-61e83cc5c964,Αβέρωφ Νεοφύτου - Averof Neofytou,2023-01-12T14:56:58.728Z,70cb9ad3-094f-4bcc-97a2-c2fa8c49297b,DISY,Cyprus,cy,256299421194660,Αβέρωφ Νεοφύτου - Averof Neofytou,Facebook
-6e3480ec-f8f1-4339-8741-8243eccc8049,Δημοκρατικός Συναγερμός,2023-01-12T14:56:59.075Z,16affabf-9921-4eab-8ca3-e86cdbabef6c,DISY,Cyprus,cy,64330641883,Δημοκρατικός Συναγερμός,Facebook
-74a5a357-f51e-4e16-80b7-274f95a2b981,Ευθύμιος Δίπλαρος - Efthimios Diplaros,2023-01-12T14:57:00.180Z,4c22f7d8-646c-499a-839d-3c1834b6b842,DISY,Cyprus,cy,173956835959315,Ευθύμιος Δίπλαρος - Efthimios Diplaros,Facebook
-a587df2e-f614-4bc4-95df-63b89f433cad,Σάβια Ορφανίδου | Savia Orphanidou,2023-01-12T14:57:00.001Z,977464e6-0900-4c7a-9174-4d734b0e0bbf,DISY,Cyprus,cy,271120899565258,Σάβια Ορφανίδου | Savia Orphanidou,Facebook
-c7a65bc8-c298-4173-bde9-15ff38c4d3ce,Λευτέρης Χριστοφόρου - Lefteris Christoforou,2023-01-12T14:56:59.139Z,a57af88e-8edc-4bd7-a057-5213c2d1afbe,DISY,Cyprus,cy,832972046731724,Λευτέρης Χριστοφόρου - Lefteris Christoforou,Facebook
-cba8803a-be23-4f86-835b-5f2de9d3fa9c,Ανδρέας Κωνσταντίνου Δήμαρχος Αγλαντζιάς,2023-01-12T14:56:59.738Z,2b5f8a5f-48cc-455c-9512-a814f2e53493,DISY,Cyprus,cy,1510321672328078,Ανδρέας Κωνσταντίνου Δήμαρχος Αγλαντζιάς,Facebook
-e17d40d6-5851-42ce-88bc-dd77e489c339,Φωτεινή Τσιρίδου - Fotini Tsiridou,2023-01-12T14:56:59.043Z,bd3ba8ee-7649-4e39-a015-880394cef047,DISY,Cyprus,cy,106262547828612,Φωτεινή Τσιρίδου - Fotini Tsiridou,Facebook
-e22db464-caf7-4bbe-81cc-f793edf11f26,Andreas G. Christodoulou - Ανδρέας Γ. Χριστοδούλου,2023-01-12T14:56:59.814Z,15a0f712-9515-4b0c-85f0-69ce71cc90fa,DISY,Cyprus,cy,104848171350469,Andreas G. Christodoulou - Ανδρέας Γ. Χριστοδούλου,Facebook
+3aaddd2b-757d-41f4-a75a-dd5cc60a01ee,Κίνημα Αλληλεγγύη,2022-08-16T15:24:28.976Z,7cae4599-2816-49d6-9e0d-1c04eb6ec813,AKEL,Cyprus,cy,1184280198249250,Κίνημα Αλληλεγγύη,Facebook
+703b790e-03aa-4334-a4fe-c507cb1018fb,Κινήμα Σοσιαλδημοκρατών,2022-08-16T15:24:28.955Z,01ac4ef4-15f5-4f72-8e1f-4793ca1d3ebe,EDEK,Cyprus,cy,489124984493054,Κινήμα Σοσιαλδημοκρατών,Facebook
+96fb62dc-a6b0-41d3-accc-309874ea8f97,Ανορθωτικό Κόμμα Εργαζόμενου Λαού,2022-08-16T15:24:28.933Z,418cea91-e324-4e86-a95f-5c4e7b54ee58,AKEL,Cyprus,cy,117799504920552,Ανορθωτικό Κόμμα Εργαζόμενου Λαού,Facebook
+2d33a910-0f2b-47be-aefe-88c44fe6baec,Συμμαχία Πολιτών,2022-08-16T15:24:28.964Z,831a9c99-71f9-4f44-b9f7-8490cb0cb7b2,EDEK,Cyprus,cy,470323203056530,Συμμαχία Πολιτών,Facebook
 03a67229-e3c2-4d5c-9aa0-4cec4ab2d79f,Aggelos Constantinides,2023-01-12T14:57:00.423Z,997d0887-371e-42dc-b4d1-3f8ce80ba877,OTHER,Cyprus,cy,109926104524022,Aggelos Constantinides,Facebook
-0a448e73-830f-4257-8ab0-a174054197ce,Δήμος Σωτήρας - Sotira Municipality,2023-01-12T14:56:59.359Z,29e69b19-82a5-4f0e-ad04-d650ad14f2a0,OTHER,Cyprus,cy,234284796728060,Δήμος Σωτήρας - Sotira Municipality,Facebook
-1085c615-c034-4008-8acb-890bd3a84f32,Sonay Akgüney,2023-01-12T14:56:59.519Z,854bfa8a-4700-45c5-ab5b-9ef22bdb7f84,OTHER,Cyprus,cy,107124972252336,Sonay Akgüney,Facebook
-15f7ed4c-bfc9-4c0c-aaf0-b4fd8f3a61f4,Dr. Süleyman Uluçay,2023-01-12T14:56:58.963Z,4dc7b20f-a3f3-4099-8fe1-5dd079a7aa06,OTHER,Cyprus,cy,102159248914509,Dr. Süleyman Uluçay,Facebook
-16d8c7b4-0e0f-45f7-a7f7-cc18596d5da6,Ayia Napa Municipality - Δήμος Αγίας Νάπας,2023-01-12T14:56:59.616Z,e2e282d7-757a-4c1c-8577-049f2ff992dd,OTHER,Cyprus,cy,317812228341573,Ayia Napa Municipality - Δήμος Αγίας Νάπας,Facebook
-1b003556-573c-4433-9103-f4aade0dda78,Nidai Güngördü,2023-01-12T14:56:59.095Z,8b5b8545-af48-46b5-b528-6a4fac4dce47,OTHER,Cyprus,cy,513057578804680,Nidai Güngördü,Facebook
-1e0a7570-c979-4e08-ac92-c78e98162b2c,Sadık Gardiyanoğlu,2023-01-12T14:56:58.734Z,16f324c5-d031-4e67-a6af-6e877425ca65,OTHER,Cyprus,cy,101989786067935,Sadık Gardiyanoğlu,Facebook
-224a0fec-a1fe-49a9-a27f-3d0ef3f10641,Κλάδος Αστυνομικού Σώματος-Ισότητα,2023-01-12T14:57:00.994Z,a4885232-804d-4479-8c4d-b378074045db,OTHER,Cyprus,cy,109252201264120,Κλάδος Αστυνομικού Σώματος-Ισότητα,Facebook
-2919bdac-97cd-4309-aea7-90a853ad5dc5,Νέα Δημοκρατία Κύπρου,2023-01-12T14:56:59.935Z,3524e376-5c8f-44ae-8a62-a0024ec46de8,OTHER,Cyprus,cy,2675147075848707,Νέα Δημοκρατία Κύπρου,Facebook
-2926fb80-82e7-4553-a66e-12e332472885,Hasan Küçük,2023-01-12T14:57:00.217Z,a8fae446-2176-48fb-ac1f-96338dbc3e5f,OTHER,Cyprus,cy,100433795805390,Hasan Küçük,Facebook
-2e02b91a-a640-4456-80d1-031986850c97,Osman Bican,2023-01-12T14:56:59.018Z,33e8d65f-84aa-4844-a8e6-9489fc0936d8,OTHER,Cyprus,cy,1776163029088275,Osman Bican,Facebook
-2f13abea-904b-40d5-917d-b73ab1ce2dff,Ulusal Birlik Partisi,2023-01-12T14:56:58.733Z,acf31a47-2808-479d-a1b6-8ccb93ee7d16,OTHER,Cyprus,cy,1900800053503394,Ulusal Birlik Partisi,Facebook
-2fed60ca-ae17-4b67-967e-001b6ed4f754,Δήμος Αθηένου / Municipality of Athienou,2023-01-12T14:56:59.577Z,03d195d9-cd16-4030-abbd-1bfe6a436361,OTHER,Cyprus,cy,1402393833362684,Δήμος Αθηένου / Municipality of Athienou,Facebook
-33f301fb-7420-4f49-bb9b-3aa3c1229a1e,Fuat Namsoy,2023-01-12T14:56:58.758Z,1e4c9f14-c25b-4a69-a86e-a16755c1d6f1,OTHER,Cyprus,cy,109379988652594,Fuat Namsoy,Facebook
-356ed50f-e947-4d56-bbed-48f644ed2bff,Salih Tokatlı,2023-01-12T14:56:59.445Z,7714802d-7e4d-4aad-a650-6c6a8ee822e9,OTHER,Cyprus,cy,732026886981540,Salih Tokatlı,Facebook
-359986ad-ce78-4391-97e0-37e1d0c4af43,EU Justice and Consumers,2023-01-12T14:56:58.728Z,acb550bb-75fc-4db9-945f-44ada0e5165b,OTHER,Cyprus,cy,278117815576023,EU Justice and Consumers,Facebook
-395e70d4-05e0-4b11-bec3-d835d65e955e,Nihat Reyhan,2023-01-12T14:56:59.619Z,25b048f4-0f58-4146-825c-da0bbe6a1805,OTHER,Cyprus,cy,101816722796714,Nihat Reyhan,Facebook
-3c04a6bd-5ba2-49a7-b721-4950476e7831,Dr. Erdal Özcenk,2023-01-12T14:56:58.958Z,a4a0b02c-00b9-46e1-b98f-7bdc386728e4,OTHER,Cyprus,cy,110528361402047,Dr. Erdal Özcenk,Facebook
-46a2bf61-f7b9-4c10-b8e4-578e878e4c26,Mahmut Özcınar,2023-01-12T14:56:58.998Z,81078c8a-0424-45db-acd6-31d858f34aa6,OTHER,Cyprus,cy,108279412084089,Mahmut Özcınar,Facebook
-4b476a85-14fe-4aed-8262-e314670ccdc2,Ανδρέας Θεοφάνους,2023-01-12T14:56:59.760Z,2b58baad-c5d3-4777-a7c0-5fa8686336fe,OTHER,Cyprus,cy,104093047863641,Ανδρέας Θεοφάνους,Facebook
-4c642638-b7ef-4c4e-b24e-3e5ed826ae78,Zeki Çeler,2023-01-12T14:56:58.959Z,1501d594-c61c-49b1-ba5e-7ebb2e233605,OTHER,Cyprus,cy,519155634805463,Zeki Çeler,Facebook
-59396423-4857-4aa8-b200-4fea0858174a,Νίκος Νικολαΐδης / Nicos Nicolaides,2023-01-12T14:56:58.998Z,84377a71-31ae-42c4-81e6-cf6577f5a4b3,OTHER,Cyprus,cy,138070989548204,Νίκος Νικολαΐδης / Nicos Nicolaides,Facebook
-5fd8e1e7-cb1d-46df-afb6-63c421a6db05,Sol Gençlik,2023-01-12T14:57:00.879Z,9b624fee-2db2-45c7-b1b7-f2770216ca78,OTHER,Cyprus,cy,111938757645143,Sol Gençlik,Facebook
-5feb2304-4802-4d6f-b097-e8012a3495fe,DiEM25 Cyprus,2023-01-12T14:56:59.524Z,7a4698cb-58d4-4243-8b8b-38b86d3f7b0f,OTHER,Cyprus,cy,112262374694350,DiEM25 Cyprus,Facebook
-632db8da-2b77-4ee3-819a-2339c4e48975,Devrim Barçın Blog,2023-01-12T14:57:00.920Z,7bf2faf3-e73c-418d-b9b9-001a081980cf,OTHER,Cyprus,cy,158059254764360,Devrim Barçın Blog,Facebook
-6d009a57-02a9-45e7-a79b-3674668d80d8,Δήμος Λεμεσού - Limassol Municipality,2023-01-12T14:56:59.175Z,d313e532-9f61-4cbe-a404-05cafd702ee8,OTHER,Cyprus,cy,1523797697855594,Δήμος Λεμεσού - Limassol Municipality,Facebook
-6ddf1a07-18a3-40a0-9b10-4fd08daf8cc2,Δήμος Μέσα Γειτονιάς,2023-01-12T14:56:59.404Z,16c0a489-7272-48ed-ba6a-17e9be3fdf8d,OTHER,Cyprus,cy,106427581398132,Δήμος Μέσα Γειτονιάς,Facebook
-7066b370-a465-4dc8-89af-9f6e6117f5ef,Δήμος Αγλαντζιάς - Aglantzia Municipality,2023-01-12T14:56:59.397Z,9551d02c-9743-4bba-bf98-b00ef75ffac4,OTHER,Cyprus,cy,852114734846388,Δήμος Αγλαντζιάς - Aglantzia Municipality,Facebook
-7c2b8134-edf8-4f1b-a684-7625941cdd4d,Aziz Kaya,2023-01-12T14:56:59.419Z,35fb4080-7349-41ee-a9fe-7279f5138ffd,OTHER,Cyprus,cy,2056358494638202,Aziz Kaya,Facebook
-80ad386c-02ce-4c3a-baea-78fe9dfbf49f,Bağımsızlık Yolu,2023-01-12T14:56:59.336Z,52e9d0c4-1831-4083-aa29-53b344726c1d,OTHER,Cyprus,cy,1536989789849794,Bağımsızlık Yolu,Facebook
-80b231bb-9dc2-408d-8573-47f29c9dfbd8,Mehmet Harmancı,2023-01-12T14:56:58.728Z,437f4c52-b874-4349-b80a-f5e30e85cfba,OTHER,Cyprus,cy,699709590070377,Mehmet Harmancı,Facebook
-80d1eef0-1109-438c-a5e6-50d0ce951371,Μάριος Ηλιάδης - Marios Eliades,2023-01-12T14:56:59.158Z,4a1e69b2-29b7-4f59-b761-087c025d58b9,OTHER,Cyprus,cy,104155561465348,Μάριος Ηλιάδης - Marios Eliades,Facebook
+f115e4b7-e3de-4a4a-ac26-9537b183db64,Civic Action Now in Cyprus,2023-01-12T14:57:00.634Z,b28189f5-9743-4d7c-9b9b-3bcc24485683,OTHER,Cyprus,cy,102711462605765,Civic Action Now in Cyprus,Facebook
 84e043a0-2d52-4b55-8ffe-5a7626caf37b,Νεολαία Οικολόγων-Young Cyprus Greens,2023-01-12T14:56:59.719Z,2e27d56a-71c7-4553-a9b8-10ebee6fae11,OTHER,Cyprus,cy,1666888540256216,Νεολαία Οικολόγων-Young Cyprus Greens,Facebook
-8502b966-e4a1-4210-be84-ef25d551eb13,Ceyhun Kırok,2023-01-12T14:56:59.615Z,b9f5c435-6bcc-4f03-8376-c96f25ff8031,OTHER,Cyprus,cy,103261919272594,Ceyhun Kırok,Facebook
-8976f543-37f9-454c-843f-8ec9cfdca4c3,Özerk Raif,2023-01-12T14:56:59.562Z,fc2834ef-735c-45ed-9805-01c0e36556cd,OTHER,Cyprus,cy,107980795476840,Özerk Raif,Facebook
-9140cc1f-70ff-4b2c-bad9-a2c629937b78,Şifa Çolakoğlu,2023-01-12T14:56:59.058Z,abbc3196-57f3-40ec-9573-3acf0a46300d,OTHER,Cyprus,cy,109466415295250,Şifa Çolakoğlu,Facebook
 93795ae5-22ba-48eb-972d-d5a38fda5ac8,Sila Usar Incirli,2023-01-12T14:56:59.878Z,8c2f041a-e281-4098-bfda-49c06363bd19,OTHER,Cyprus,cy,427181180992584,Sila Usar Incirli,Facebook
-94e233df-2acc-4720-8a1b-17b1542667bf,Ahmet Yalçın Benli,2023-01-12T14:56:59.180Z,869e1c48-b01b-44ed-8b1d-03101684793d,OTHER,Cyprus,cy,149438919257011,Ahmet Yalçın Benli,Facebook
-96367dbd-8a98-444b-ab09-808bac29541b,Adil Özgey,2023-01-12T14:56:59.139Z,d4a7a1df-c34d-40de-ae10-983b2bd8f6f5,OTHER,Cyprus,cy,110494978537127,Adil Özgey,Facebook
+2f13abea-904b-40d5-917d-b73ab1ce2dff,Ulusal Birlik Partisi,2023-01-12T14:56:58.733Z,acf31a47-2808-479d-a1b6-8ccb93ee7d16,OTHER,Cyprus,cy,1900800053503394,Ulusal Birlik Partisi,Facebook
+3c04a6bd-5ba2-49a7-b721-4950476e7831,Dr. Erdal Özcenk,2023-01-12T14:56:58.958Z,a4a0b02c-00b9-46e1-b98f-7bdc386728e4,OTHER,Cyprus,cy,110528361402047,Dr. Erdal Özcenk,Facebook
+1e0a7570-c979-4e08-ac92-c78e98162b2c,Sadık Gardiyanoğlu,2023-01-12T14:56:58.734Z,16f324c5-d031-4e67-a6af-6e877425ca65,OTHER,Cyprus,cy,101989786067935,Sadık Gardiyanoğlu,Facebook
+ea60a7fe-79bd-40b1-af64-4308ba76e57a,Κωνσταντίνος Χριστοφίδης 2023,2023-01-12T14:56:58.958Z,531f3060-3f36-4a55-9e70-553a13a7e7cc,OTHER,Cyprus,cy,2147276642205753,Κωνσταντίνος Χριστοφίδης 2023,Facebook
+15f7ed4c-bfc9-4c0c-aaf0-b4fd8f3a61f4,Dr. Süleyman Uluçay,2023-01-12T14:56:58.963Z,4dc7b20f-a3f3-4099-8fe1-5dd079a7aa06,OTHER,Cyprus,cy,102159248914509,Dr. Süleyman Uluçay,Facebook
+d368553e-1aae-4f87-bf9c-85623f4f9ec3,Hasan Sadıkoğlu,2023-01-12T14:56:58.974Z,bb1c091a-ade5-4a53-a276-b238a49eb00a,OTHER,Cyprus,cy,433315683785886,Hasan Sadıkoğlu,Facebook
+453fb8aa-d773-4b26-ba39-b0a1ddc60419,Νίκος Χριστοδουλίδης - Nikos Christodoulides,2023-01-12T14:56:58.728Z,736a107f-e08e-4efc-a3d5-39aaa0bc43b7,IND,Cyprus,cy,101194455862998,Νίκος Χριστοδουλίδης - Nikos Christodoulides,Facebook
+57caa055-8c4b-4d84-bcdd-f0270177ba2c,Γιώργος Κολοκασίδης · Υποψήφιος Πρόεδρος Δημοκρατίας 2023,2023-01-12T14:56:58.974Z,e10bfeea-cc1d-4f5e-bfcf-7832275b3866,IND,Cyprus,cy,101539042396068,Γιώργος Κολοκασίδης · Υποψήφιος Πρόεδρος Δημοκρατίας 2023,Facebook
+af74ae9e-0029-4bb3-9cfa-58749c802154,Murat Şenkul,2023-01-12T14:56:59.003Z,9a72a05e-c1c1-446a-bfe7-f48d7ac2918e,OTHER,Cyprus,cy,100513596223095,Murat Şenkul,Facebook
+46a2bf61-f7b9-4c10-b8e4-578e878e4c26,Mahmut Özcınar,2023-01-12T14:56:58.998Z,81078c8a-0424-45db-acd6-31d858f34aa6,OTHER,Cyprus,cy,108279412084089,Mahmut Özcınar,Facebook
+59396423-4857-4aa8-b200-4fea0858174a,Νίκος Νικολαΐδης / Nicos Nicolaides,2023-01-12T14:56:58.998Z,84377a71-31ae-42c4-81e6-cf6577f5a4b3,OTHER,Cyprus,cy,138070989548204,Νίκος Νικολαΐδης / Nicos Nicolaides,Facebook
+2e02b91a-a640-4456-80d1-031986850c97,Osman Bican,2023-01-12T14:56:59.018Z,33e8d65f-84aa-4844-a8e6-9489fc0936d8,OTHER,Cyprus,cy,1776163029088275,Osman Bican,Facebook
+e17d40d6-5851-42ce-88bc-dd77e489c339,Φωτεινή Τσιρίδου - Fotini Tsiridou,2023-01-12T14:56:59.043Z,bd3ba8ee-7649-4e39-a015-880394cef047,DISY,Cyprus,cy,106262547828612,Φωτεινή Τσιρίδου - Fotini Tsiridou,Facebook
+ab5ee292-9abc-4a6a-ac10-f9e3236b850e,Costas Mavrides - Κώστας Μαυρίδης,2023-01-12T14:56:59.045Z,bf949229-62c3-4016-9f13-6ce5e88b949e,DIKO,Cyprus,cy,197874087030899,Costas Mavrides - Κώστας Μαυρίδης,Facebook
+f7aee147-f30a-464d-9ad8-3b1f1bf2cbaa,Hüseyin Amcaoğlu - Gönyeli-Alayköy Belediye Başkan Adayı,2023-01-12T14:56:59.074Z,1289485f-3638-48eb-a9d1-8f8764e98210,OTHER,Cyprus,cy,101095496169810,Hüseyin Amcaoğlu - Gönyeli-Alayköy Belediye Başkan Adayı,Facebook
+a47935c6-1acb-412c-a947-ba7fb715dbeb,Achilleas Demetriades,2023-01-12T14:56:59.020Z,5c274ced-b5f1-4525-a079-6e0d4a91415c,OTHER,Cyprus,cy,100310018714166,Achilleas Demetriades,Facebook
+6e3480ec-f8f1-4339-8741-8243eccc8049,Δημοκρατικός Συναγερμός,2023-01-12T14:56:59.075Z,16affabf-9921-4eab-8ca3-e86cdbabef6c,DISY,Cyprus,cy,64330641883,Δημοκρατικός Συναγερμός,Facebook
+1b003556-573c-4433-9103-f4aade0dda78,Nidai Güngördü,2023-01-12T14:56:59.095Z,8b5b8545-af48-46b5-b528-6a4fac4dce47,OTHER,Cyprus,cy,513057578804680,Nidai Güngördü,Facebook
+9140cc1f-70ff-4b2c-bad9-a2c629937b78,Şifa Çolakoğlu,2023-01-12T14:56:59.058Z,abbc3196-57f3-40ec-9573-3acf0a46300d,OTHER,Cyprus,cy,109466415295250,Şifa Çolakoğlu,Facebook
+dd5c10b9-9640-4fa6-bef6-ae402cf67850,Παγκύπρια Συντεχνία Ισότητα,2023-01-12T14:56:59.138Z,33bf7ce2-18b5-41d5-98d2-3ce76241ef7e,OTHER,Cyprus,cy,1384880214973279,Παγκύπρια Συντεχνία Ισότητα,Facebook
+fce8f9fa-3ef7-4bf8-a8d9-12496f28be7d,Salih Oktay,2023-01-12T14:56:59.062Z,ecfdec49-3d2a-449c-84b6-a38152e4f933,OTHER,Cyprus,cy,103113405953696,Salih Oktay,Facebook
+c7a65bc8-c298-4173-bde9-15ff38c4d3ce,Λευτέρης Χριστοφόρου - Lefteris Christoforou,2023-01-12T14:56:59.139Z,a57af88e-8edc-4bd7-a057-5213c2d1afbe,DISY,Cyprus,cy,832972046731724,Λευτέρης Χριστοφόρου - Lefteris Christoforou,Facebook
+80d1eef0-1109-438c-a5e6-50d0ce951371,Μάριος Ηλιάδης - Marios Eliades,2023-01-12T14:56:59.158Z,4a1e69b2-29b7-4f59-b761-087c025d58b9,OTHER,Cyprus,cy,104155561465348,Μάριος Ηλιάδης - Marios Eliades,Facebook
+6d009a57-02a9-45e7-a79b-3674668d80d8,Δήμος Λεμεσού - Limassol Municipality,2023-01-12T14:56:59.175Z,d313e532-9f61-4cbe-a404-05cafd702ee8,OTHER,Cyprus,cy,1523797697855594,Δήμος Λεμεσού - Limassol Municipality,Facebook
+5d139f6c-19a6-41e4-b715-1c8f9688c106,Στέφανος Στεφάνου,2023-01-12T14:56:59.216Z,b162f9bb-d6c4-4acc-ab3b-d831ef3d04ed,AKEL,Cyprus,cy,107389055063575,Στέφανος Στεφάνου,Facebook
 9c6dcd5b-0617-4a2f-8c82-a5b2d8d7e71f,Sadık Tuver,2023-01-12T14:56:59.341Z,e8416ff8-e648-4e8d-9c14-17549bcf2c4d,OTHER,Cyprus,cy,107486295511768,Sadık Tuver,Facebook
 a2ee0169-0619-4a27-8ea9-2cc6f3c1a574,Firat Ataser,2023-01-12T14:56:59.402Z,67848c18-bf69-4894-bb29-d2dc37285299,OTHER,Cyprus,cy,1011904278957920,Firat Ataser,Facebook
-a47935c6-1acb-412c-a947-ba7fb715dbeb,Achilleas Demetriades,2023-01-12T14:56:59.020Z,5c274ced-b5f1-4525-a079-6e0d4a91415c,OTHER,Cyprus,cy,100310018714166,Achilleas Demetriades,Facebook
-ad2a7538-0a21-4c47-a865-9f68aa3b1b16,European Commission in Cyprus,2023-01-12T14:56:59.384Z,d671115a-b659-42a6-b724-15159aba1566,OTHER,Cyprus,cy,112732195470659,European Commission in Cyprus,Facebook
-af74ae9e-0029-4bb3-9cfa-58749c802154,Murat Şenkul,2023-01-12T14:56:59.003Z,9a72a05e-c1c1-446a-bfe7-f48d7ac2918e,OTHER,Cyprus,cy,100513596223095,Murat Şenkul,Facebook
-b3fe5673-d87e-40f1-934e-dc1c69e7964a,Koray Emirhoca,2023-01-12T14:56:59.617Z,fbacb961-4629-4c52-8a83-d6b23ae93508,OTHER,Cyprus,cy,110716278559416,Koray Emirhoca,Facebook
-bbd04450-5c5e-4776-949b-f6b301c92e2d,Kıbrıs Sosyalist Partisi,2023-01-12T14:57:00.823Z,303ebcf2-e8ba-4735-8ab2-211a681a1068,OTHER,Cyprus,cy,1006626572685553,Kıbrıs Sosyalist Partisi,Facebook
-c58b3e98-f458-4cf6-9e86-185fef84ec86,Güzelyurt TDP Sol İttifak,2023-01-12T14:57:00.441Z,c9d8593d-9ea5-443d-a90f-bd62d810e858,OTHER,Cyprus,cy,110788435207995,Güzelyurt TDP Sol İttifak,Facebook
-c80ca6c1-af65-4517-bfe7-a0cd1299ea23,Özgür Dedeoğlu,2023-01-12T14:56:59.741Z,bde24f01-41c7-44b0-9381-0268bcaa9953,OTHER,Cyprus,cy,110658791899810,Özgür Dedeoğlu,Facebook
-d27fd3fd-76f6-49d5-841f-9d7ef28f1c3e,Emre Efendi,2023-01-12T14:56:59.481Z,edf79d8e-be3a-4da3-a25e-3138451a16d0,OTHER,Cyprus,cy,109699175288147,Emre Efendi,Facebook
-d333504c-9366-4b51-8635-834eb0fda190,Salih Saldam,2023-01-12T14:56:59.897Z,8a0d49fd-c31b-44a9-b25b-e995a4b51efb,OTHER,Cyprus,cy,195126624648714,Salih Saldam,Facebook
-d368553e-1aae-4f87-bf9c-85623f4f9ec3,Hasan Sadıkoğlu,2023-01-12T14:56:58.974Z,bb1c091a-ade5-4a53-a276-b238a49eb00a,OTHER,Cyprus,cy,433315683785886,Hasan Sadıkoğlu,Facebook
-d37ce7ae-f525-4a15-8996-d824ed1ef7cf,Αμμόχωστος - Για την Κύπρο,2023-01-12T14:57:00.153Z,53bb7f20-b7c4-4b66-b9a6-b07922f4aa1c,OTHER,Cyprus,cy,106489508074995,Αμμόχωστος - Για την Κύπρο,Facebook
-dab3d0a6-503b-439f-80bd-6f0ac80cfff6,Pafos Municipality - Δημος Παφου,2023-01-12T14:56:59.356Z,abf285c6-ddc6-47d9-a39c-e154e8f62ba8,OTHER,Cyprus,cy,380431408783809,Pafos Municipality - Δημος Παφου,Facebook
-dc9ba304-15a2-4811-b6d3-12fe67de617b,Lefkoşa Türk Belediyesi,2023-01-12T14:56:59.157Z,8291826c-af9a-4738-804c-9ac7e083a6d8,OTHER,Cyprus,cy,453414104748271,Lefkoşa Türk Belediyesi,Facebook
 dd25301b-e0ec-475b-80cf-15999260d029,Demokrat Parti,2023-01-12T14:57:00.396Z,1845f7bc-d2f6-4960-bd49-eea355357649,OTHER,Cyprus,cy,448775298545427,Demokrat Parti,Facebook
-dd3c2c26-cae2-4083-abf2-e90fcbdd9409,Ahmet Latif,2023-01-12T14:57:00.338Z,21518581-38b3-4382-8678-1cabedc866f1,OTHER,Cyprus,cy,1638873666147804,Ahmet Latif,Facebook
-dd5c10b9-9640-4fa6-bef6-ae402cf67850,Παγκύπρια Συντεχνία Ισότητα,2023-01-12T14:56:59.138Z,33bf7ce2-18b5-41d5-98d2-3ce76241ef7e,OTHER,Cyprus,cy,1384880214973279,Παγκύπρια Συντεχνία Ισότητα,Facebook
-ded43581-d533-4bb5-bf28-cd6ae81d9c7f,Coşkun Talihsiz,2023-01-12T14:56:59.294Z,6d92175d-5e18-4bd3-af7d-9748510f055e,OTHER,Cyprus,cy,100700780820184,Coşkun Talihsiz,Facebook
-ea60a7fe-79bd-40b1-af64-4308ba76e57a,Κωνσταντίνος Χριστοφίδης 2023,2023-01-12T14:56:58.958Z,531f3060-3f36-4a55-9e70-553a13a7e7cc,OTHER,Cyprus,cy,2147276642205753,Κωνσταντίνος Χριστοφίδης 2023,Facebook
-f115e4b7-e3de-4a4a-ac26-9537b183db64,Civic Action Now in Cyprus,2023-01-12T14:57:00.634Z,b28189f5-9743-4d7c-9b9b-3bcc24485683,OTHER,Cyprus,cy,102711462605765,Civic Action Now in Cyprus,Facebook
-f58c774c-2a4b-4213-97b6-78412eb998e7,Phedon Phedonos,2023-01-12T14:56:59.876Z,a7c94c5b-41b2-4591-b5ab-8159e5b16335,OTHER,Cyprus,cy,159662674097761,Phedon Phedonos,Facebook
-f7a5c29a-cfcf-4f24-8057-1433620baadb,Yiannis Karousos - Γιάννης Καρούσος,2023-01-12T14:56:59.478Z,e06dba99-cb97-4604-882f-f2febfbd84df,OTHER,Cyprus,cy,219061554833957,Yiannis Karousos - Γιάννης Καρούσος,Facebook
-f7aee147-f30a-464d-9ad8-3b1f1bf2cbaa,Hüseyin Amcaoğlu - Gönyeli-Alayköy Belediye Başkan Adayı,2023-01-12T14:56:59.074Z,1289485f-3638-48eb-a9d1-8f8764e98210,OTHER,Cyprus,cy,101095496169810,Hüseyin Amcaoğlu - Gönyeli-Alayköy Belediye Başkan Adayı,Facebook
-fce8f9fa-3ef7-4bf8-a8d9-12496f28be7d,Salih Oktay,2023-01-12T14:56:59.062Z,ecfdec49-3d2a-449c-84b6-a38152e4f933,OTHER,Cyprus,cy,103113405953696,Salih Oktay,Facebook
-fcf72e90-a4b6-4ce8-a842-3192adeb08e8,Murat Pirgot,2023-01-12T14:57:00.536Z,920673bd-0035-48da-9b05-04ad93cebd8e,OTHER,Cyprus,cy,107200575573536,Murat Pirgot,Facebook
-0320a1e3-a8ba-4aed-a063-80d6ef6dbdf6,Neophytos Charalambides / Νεόφυτος Χαραλαμπίδης,2023-01-12T14:56:59.998Z,7bfc26b2-3e61-4b50-aecc-1b3abce71d75,DIKO,Cyprus,cy,183981211645839,Neophytos Charalambides / Νεόφυτος Χαραλαμπίδης,Facebook
-23dc939b-01b0-4f86-b736-1dc90144c980,Νικόλας Παπαδόπουλος,2023-01-12T14:56:59.324Z,2609d7a9-bf4e-4072-bcbf-d209c88bf8c9,DIKO,Cyprus,cy,998046016880140,Νικόλας Παπαδόπουλος,Facebook
-24249c05-2312-485f-932a-30431bdd9d0d,Χριστιάνα Ερωτοκρίτου,2023-01-12T14:57:00.017Z,28e8ba55-da82-48f7-99b0-0aa563317da9,DIKO,Cyprus,cy,771955332942116,Χριστιάνα Ερωτοκρίτου,Facebook
-3c1087f4-0c57-4206-91a9-68873b258634,Χρύσανθος Σαββίδης,2023-01-12T14:56:59.363Z,7d935e92-cb05-4ceb-a6b0-ae49261a94a5,DIKO,Cyprus,cy,556192687867978,Χρύσανθος Σαββίδης,Facebook
-62bf4a15-fbb0-48ba-a526-fb119542a0f3,Βανέσσα Κυπριανού,2023-02-07T15:04:58.658Z,084de7c5-82d2-4ebd-adb5-35b5891b4770,DIKO,Cyprus,cy,101592808492465,Βανέσσα Κυπριανού,Facebook
-a8264f93-4105-41b9-b7f3-4320686221d1,Δημοκρατικό Κόμμα,2022-08-16T15:24:28.952Z,4b4eb29b-cda2-4a32-a512-2435f9cd3f5a,DIKO,Cyprus,cy,293704380825571,Δημοκρατικό Κόμμα,Facebook
-ab5ee292-9abc-4a6a-ac10-f9e3236b850e,Costas Mavrides - Κώστας Μαυρίδης,2023-01-12T14:56:59.045Z,bf949229-62c3-4016-9f13-6ce5e88b949e,DIKO,Cyprus,cy,197874087030899,Costas Mavrides - Κώστας Μαυρίδης,Facebook
+96367dbd-8a98-444b-ab09-808bac29541b,Adil Özgey,2023-01-12T14:56:59.139Z,d4a7a1df-c34d-40de-ae10-983b2bd8f6f5,OTHER,Cyprus,cy,110494978537127,Adil Özgey,Facebook
 b79f3e4b-dce4-4269-95e4-88a3b57e525d,ΧΡΥΣΗΣ ΠΑΝΤΕΛΙΔΗΣ,2023-01-12T14:56:59.282Z,14b57415-a62e-4165-83d7-548a01cb1c97,DIKO,Cyprus,cy,358841031473567,ΧΡΥΣΗΣ ΠΑΝΤΕΛΙΔΗΣ,Facebook
-8696f6aa-df6b-49a4-bcb4-039ea76f1a51,Δημοκρατική Παράταξη · ΔΗΠΑ,2023-01-12T14:56:59.735Z,24bc88ea-e67e-4953-a70c-fa60664ce4c1,DEPA,Cyprus,cy,1981519141869958,Δημοκρατική Παράταξη · ΔΗΠΑ,Facebook
-9897fefb-fc2b-4aad-b83d-967ffb2e30fc,Marios Garoyian,2023-02-08T05:54:33.273Z,e526ea22-398a-49f8-99d8-0b47157c297c,DEPA,Cyprus,cy,423998087782766,Marios Garoyian,Facebook
-2d33a910-0f2b-47be-aefe-88c44fe6baec,Συμμαχία Πολιτών,2022-08-16T15:24:28.964Z,831a9c99-71f9-4f44-b9f7-8490cb0cb7b2,EDEK,Cyprus,cy,470323203056530,Συμμαχία Πολιτών,Facebook
-647ff566-a3fa-4683-baf1-c6e381d0c78e,Ανδρέας Αποστόλου,2023-01-12T14:56:59.496Z,bd9d6268-90ff-4885-9ceb-192e337eaaa8,EDEK,Cyprus,cy,502944236549149,Ανδρέας Αποστόλου,Facebook
-703b790e-03aa-4334-a4fe-c507cb1018fb,Κινήμα Σοσιαλδημοκρατών,2022-08-16T15:24:28.955Z,01ac4ef4-15f5-4f72-8e1f-4793ca1d3ebe,EDEK,Cyprus,cy,489124984493054,Κινήμα Σοσιαλδημοκρατών,Facebook
-0084a05b-c61b-468d-b722-ad73f3a22f40,European Year of Youth - Cyprus,2023-01-12T14:56:59.742Z,8256a4cc-1f05-404c-8bd0-9d6963910705,GOV,Cyprus,cy,107277812105589,European Year of Youth - Cyprus,Facebook
-7c9552d2-a1c8-457b-9905-7b712bf6fd1b,Γραφείο Επιτρόπου Επικοινωνιών,2023-01-12T14:56:58.975Z,351a251e-c7df-4637-8eea-032566c45f24,GOV,Cyprus,cy,102944721782406,Γραφείο Επιτρόπου Επικοινωνιών,Facebook
-8aa0c325-8c4f-4486-9689-f02d88f93a33,Υφυπουργείο Τουρισμού,2023-01-12T14:56:58.959Z,e39ea359-0b9e-49d6-98ca-ba972b693e7b,GOV,Cyprus,cy,114633950337823,Υφυπουργείο Τουρισμού,Facebook
-ab08faff-9d36-4f74-a365-b5f2fc9a9696,Γραφείο Τύπου και Πληροφοριών - Press and Information Office,2023-01-12T14:56:58.758Z,0352d6d1-56d4-43ed-8e4c-7ecaff502bf7,GOV,Cyprus,cy,620027974738907,Γραφείο Τύπου και Πληροφοριών - Press and Information Office,Facebook
-00b94d71-bb5b-4817-a8dd-37dbd7c110b7,Σταύρος Παπαδούρης - Stavros Papadouris,2023-01-12T14:56:59.658Z,da0a3742-7095-4182-9c53-633e9ebf302c,KOSP,Cyprus,cy,999438000148342,Σταύρος Παπαδούρης - Stavros Papadouris,Facebook
-2eedb42a-2d06-40b8-96cc-52a032398e34,Λευκωσία Κίνημα Οικολόγων - Συνεργασία Πολιτών,2023-01-12T14:57:00.181Z,80c39bfd-7ff0-4400-97ce-866a5f25da4c,KOSP,Cyprus,cy,109587827845372,Λευκωσία Κίνημα Οικολόγων - Συνεργασία Πολιτών,Facebook
-ec72eb40-5059-49a9-84e6-2c76668c7667,Κίνημα Οικολόγων - Συνεργασία Πολιτών,2022-08-16T15:24:28.976Z,84d488be-93b1-4e65-98cf-d105bffc1c15,KOSP,Cyprus,cy,406404342873724,Κίνημα Οικολόγων - Συνεργασία Πολιτών,Facebook
-453fb8aa-d773-4b26-ba39-b0a1ddc60419,Νίκος Χριστοδουλίδης - Nikos Christodoulides,2023-01-12T14:56:58.728Z,736a107f-e08e-4efc-a3d5-39aaa0bc43b7,IND,Cyprus,cy,101194455862998,Νίκος Χριστοδουλίδης - Nikos Christodoulides,Facebook
+dc9ba304-15a2-4811-b6d3-12fe67de617b,Lefkoşa Türk Belediyesi,2023-01-12T14:56:59.157Z,8291826c-af9a-4738-804c-9ac7e083a6d8,OTHER,Cyprus,cy,453414104748271,Lefkoşa Türk Belediyesi,Facebook
+23dc939b-01b0-4f86-b736-1dc90144c980,Νικόλας Παπαδόπουλος,2023-01-12T14:56:59.324Z,2609d7a9-bf4e-4072-bcbf-d209c88bf8c9,DIKO,Cyprus,cy,998046016880140,Νικόλας Παπαδόπουλος,Facebook
+ad2a7538-0a21-4c47-a865-9f68aa3b1b16,European Commission in Cyprus,2023-01-12T14:56:59.384Z,d671115a-b659-42a6-b724-15159aba1566,OTHER,Cyprus,cy,112732195470659,European Commission in Cyprus,Facebook
+359955f6-b16e-4b5e-9ab8-a23e6e183591,Νεολαία Δημοκρατικού Συναγερμού (ΝΕΔΗΣΥ - NEDISY),2023-01-12T14:56:59.201Z,f93e4834-6a7a-4638-a85a-1896c6fbda76,DISY,Cyprus,cy,173342948271,Νεολαία Δημοκρατικού Συναγερμού (ΝΕΔΗΣΥ - NEDISY),Facebook
+ded43581-d533-4bb5-bf28-cd6ae81d9c7f,Coşkun Talihsiz,2023-01-12T14:56:59.294Z,6d92175d-5e18-4bd3-af7d-9748510f055e,OTHER,Cyprus,cy,100700780820184,Coşkun Talihsiz,Facebook
+3c1087f4-0c57-4206-91a9-68873b258634,Χρύσανθος Σαββίδης,2023-01-12T14:56:59.363Z,7d935e92-cb05-4ceb-a6b0-ae49261a94a5,DIKO,Cyprus,cy,556192687867978,Χρύσανθος Σαββίδης,Facebook
+80ad386c-02ce-4c3a-baea-78fe9dfbf49f,Bağımsızlık Yolu,2023-01-12T14:56:59.336Z,52e9d0c4-1831-4083-aa29-53b344726c1d,OTHER,Cyprus,cy,1536989789849794,Bağımsızlık Yolu,Facebook
 540b4fc1-c975-4737-b68a-376b562ee644,Salahi T. Uçkan,2023-01-12T14:56:59.198Z,109d36b8-df38-434f-ad12-9a745d0e5c33,IND,Cyprus,cy,1532704757037078,Salahi T. Uçkan,Facebook
-57caa055-8c4b-4d84-bcdd-f0270177ba2c,Γιώργος Κολοκασίδης · Υποψήφιος Πρόεδρος Δημοκρατίας 2023,2023-01-12T14:56:58.974Z,e10bfeea-cc1d-4f5e-bfcf-7832275b3866,IND,Cyprus,cy,101539042396068,Γιώργος Κολοκασίδης · Υποψήφιος Πρόεδρος Δημοκρατίας 2023,Facebook
-70d34453-61ce-45a3-8a13-b444040c7a47,Αλέξιος Σαββίδης - Alexios Savvides ανεξάρτητος υποψήφιος - προεδρικές 2023,2023-01-12T14:56:59.736Z,ca6a90e8-7b4b-4488-8b2b-1c7886328e8a,IND,Cyprus,cy,102105028687939,Αλέξιος Σαββίδης - Alexios Savvides ανεξάρτητος υποψήφιος - προεδρικές 2023,Facebook
-9e70f356-be52-4c1f-bc13-06d55e014a54,Reşat Kansoy,2023-01-12T14:56:59.276Z,9f32cd59-9f27-4704-aaa0-b2b451a5357a,IND,Cyprus,cy,101447065969452,Reşat Kansoy,Facebook
-b66c497b-6fec-4027-bae0-99b6ca7c1124,Andronicos CY,2023-01-12T14:56:59.558Z,ee35f019-d7d8-4b43-ab47-938119418f6c,IND,Cyprus,cy,100941196147544,Andronicos CY,Facebook
 c527d526-1b03-4b59-b036-09cf62a5d084,Habibe ÇETİN,2023-01-12T14:56:59.200Z,02983ae4-f0da-4c2f-bed4-5ec7ecf0d1e1,IND,Cyprus,cy,107808801801558,Habibe ÇETİN,Facebook
+a587df2e-f614-4bc4-95df-63b89f433cad,Σάβια Ορφανίδου | Savia Orphanidou,2023-01-12T14:57:00.001Z,977464e6-0900-4c7a-9174-4d734b0e0bbf,DISY,Cyprus,cy,271120899565258,Σάβια Ορφανίδου | Savia Orphanidou,Facebook
+9e70f356-be52-4c1f-bc13-06d55e014a54,Reşat Kansoy,2023-01-12T14:56:59.276Z,9f32cd59-9f27-4704-aaa0-b2b451a5357a,IND,Cyprus,cy,101447065969452,Reşat Kansoy,Facebook
+fcf72e90-a4b6-4ce8-a842-3192adeb08e8,Murat Pirgot,2023-01-12T14:57:00.536Z,920673bd-0035-48da-9b05-04ad93cebd8e,OTHER,Cyprus,cy,107200575573536,Murat Pirgot,Facebook
+2919bdac-97cd-4309-aea7-90a853ad5dc5,Νέα Δημοκρατία Κύπρου,2023-01-12T14:56:59.935Z,3524e376-5c8f-44ae-8a62-a0024ec46de8,OTHER,Cyprus,cy,2675147075848707,Νέα Δημοκρατία Κύπρου,Facebook
+c58b3e98-f458-4cf6-9e86-185fef84ec86,Güzelyurt TDP Sol İttifak,2023-01-12T14:57:00.441Z,c9d8593d-9ea5-443d-a90f-bd62d810e858,OTHER,Cyprus,cy,110788435207995,Güzelyurt TDP Sol İttifak,Facebook
+dd3c2c26-cae2-4083-abf2-e90fcbdd9409,Ahmet Latif,2023-01-12T14:57:00.338Z,21518581-38b3-4382-8678-1cabedc866f1,OTHER,Cyprus,cy,1638873666147804,Ahmet Latif,Facebook
+2926fb80-82e7-4553-a66e-12e332472885,Hasan Küçük,2023-01-12T14:57:00.217Z,a8fae446-2176-48fb-ac1f-96338dbc3e5f,OTHER,Cyprus,cy,100433795805390,Hasan Küçük,Facebook
+d333504c-9366-4b51-8635-834eb0fda190,Salih Saldam,2023-01-12T14:56:59.897Z,8a0d49fd-c31b-44a9-b25b-e995a4b51efb,OTHER,Cyprus,cy,195126624648714,Salih Saldam,Facebook
+74a5a357-f51e-4e16-80b7-274f95a2b981,Ευθύμιος Δίπλαρος - Efthimios Diplaros,2023-01-12T14:57:00.180Z,4c22f7d8-646c-499a-839d-3c1834b6b842,DISY,Cyprus,cy,173956835959315,Ευθύμιος Δίπλαρος - Efthimios Diplaros,Facebook
+d37ce7ae-f525-4a15-8996-d824ed1ef7cf,Αμμόχωστος - Για την Κύπρο,2023-01-12T14:57:00.153Z,53bb7f20-b7c4-4b66-b9a6-b07922f4aa1c,OTHER,Cyprus,cy,106489508074995,Αμμόχωστος - Για την Κύπρο,Facebook
+f58c774c-2a4b-4213-97b6-78412eb998e7,Phedon Phedonos,2023-01-12T14:56:59.876Z,a7c94c5b-41b2-4591-b5ab-8159e5b16335,OTHER,Cyprus,cy,159662674097761,Phedon Phedonos,Facebook
+24249c05-2312-485f-932a-30431bdd9d0d,Χριστιάνα Ερωτοκρίτου,2023-01-12T14:57:00.017Z,28e8ba55-da82-48f7-99b0-0aa563317da9,DIKO,Cyprus,cy,771955332942116,Χριστιάνα Ερωτοκρίτου,Facebook
+4b476a85-14fe-4aed-8262-e314670ccdc2,Ανδρέας Θεοφάνους,2023-01-12T14:56:59.760Z,2b58baad-c5d3-4777-a7c0-5fa8686336fe,OTHER,Cyprus,cy,104093047863641,Ανδρέας Θεοφάνους,Facebook
+e22db464-caf7-4bbe-81cc-f793edf11f26,Andreas G. Christodoulou - Ανδρέας Γ. Χριστοδούλου,2023-01-12T14:56:59.814Z,15a0f712-9515-4b0c-85f0-69ce71cc90fa,DISY,Cyprus,cy,104848171350469,Andreas G. Christodoulou - Ανδρέας Γ. Χριστοδούλου,Facebook
+c80ca6c1-af65-4517-bfe7-a0cd1299ea23,Özgür Dedeoğlu,2023-01-12T14:56:59.741Z,bde24f01-41c7-44b0-9381-0268bcaa9953,OTHER,Cyprus,cy,110658791899810,Özgür Dedeoğlu,Facebook
+cba8803a-be23-4f86-835b-5f2de9d3fa9c,Ανδρέας Κωνσταντίνου Δήμαρχος Αγλαντζιάς,2023-01-12T14:56:59.738Z,2b5f8a5f-48cc-455c-9512-a814f2e53493,DISY,Cyprus,cy,1510321672328078,Ανδρέας Κωνσταντίνου Δήμαρχος Αγλαντζιάς,Facebook
+9897fefb-fc2b-4aad-b83d-967ffb2e30fc,Marios Garoyian,2023-02-08T05:54:33.273Z,e526ea22-398a-49f8-99d8-0b47157c297c,DEPA,Cyprus,cy,423998087782766,Marios Garoyian,Facebook
+8696f6aa-df6b-49a4-bcb4-039ea76f1a51,Δημοκρατική Παράταξη · ΔΗΠΑ,2023-01-12T14:56:59.735Z,24bc88ea-e67e-4953-a70c-fa60664ce4c1,DEPA,Cyprus,cy,1981519141869958,Δημοκρατική Παράταξη · ΔΗΠΑ,Facebook
+70d34453-61ce-45a3-8a13-b444040c7a47,Αλέξιος Σαββίδης - Alexios Savvides ανεξάρτητος υποψήφιος - προεδρικές 2023,2023-01-12T14:56:59.736Z,ca6a90e8-7b4b-4488-8b2b-1c7886328e8a,IND,Cyprus,cy,102105028687939,Αλέξιος Σαββίδης - Alexios Savvides ανεξάρτητος υποψήφιος - προεδρικές 2023,Facebook
+0320a1e3-a8ba-4aed-a063-80d6ef6dbdf6,Neophytos Charalambides / Νεόφυτος Χαραλαμπίδης,2023-01-12T14:56:59.998Z,7bfc26b2-3e61-4b50-aecc-1b3abce71d75,DIKO,Cyprus,cy,183981211645839,Neophytos Charalambides / Νεόφυτος Χαραλαμπίδης,Facebook
+3b1b5101-deeb-4487-a5e7-fac6f9f69a58,Νίκος Σύκας - Nikos Sykas,2023-01-12T14:56:59.635Z,31aaee62-6c73-4d99-bbcb-48f50718d000,DISY,Cyprus,cy,455359674534839,Νίκος Σύκας - Nikos Sykas,Facebook
+395e70d4-05e0-4b11-bec3-d835d65e955e,Nihat Reyhan,2023-01-12T14:56:59.619Z,25b048f4-0f58-4146-825c-da0bbe6a1805,OTHER,Cyprus,cy,101816722796714,Nihat Reyhan,Facebook
+b3fe5673-d87e-40f1-934e-dc1c69e7964a,Koray Emirhoca,2023-01-12T14:56:59.617Z,fbacb961-4629-4c52-8a83-d6b23ae93508,OTHER,Cyprus,cy,110716278559416,Koray Emirhoca,Facebook
+647ff566-a3fa-4683-baf1-c6e381d0c78e,Ανδρέας Αποστόλου,2023-01-12T14:56:59.496Z,bd9d6268-90ff-4885-9ceb-192e337eaaa8,EDEK,Cyprus,cy,502944236549149,Ανδρέας Αποστόλου,Facebook
+f7a5c29a-cfcf-4f24-8057-1433620baadb,Yiannis Karousos - Γιάννης Καρούσος,2023-01-12T14:56:59.478Z,e06dba99-cb97-4604-882f-f2febfbd84df,OTHER,Cyprus,cy,219061554833957,Yiannis Karousos - Γιάννης Καρούσος,Facebook
+8976f543-37f9-454c-843f-8ec9cfdca4c3,Özerk Raif,2023-01-12T14:56:59.562Z,fc2834ef-735c-45ed-9805-01c0e36556cd,OTHER,Cyprus,cy,107980795476840,Özerk Raif,Facebook
+7066b370-a465-4dc8-89af-9f6e6117f5ef,Δήμος Αγλαντζιάς - Aglantzia Municipality,2023-01-12T14:56:59.397Z,9551d02c-9743-4bba-bf98-b00ef75ffac4,OTHER,Cyprus,cy,852114734846388,Δήμος Αγλαντζιάς - Aglantzia Municipality,Facebook
+3e8eae03-b6aa-4a69-8a6d-037ecc513292,Dr. Eleni Stavrou - Δρ Ελένη Σταύρου,2023-01-12T14:56:59.483Z,8021d29c-39dc-4764-968f-6047c97da78b,DISY,Cyprus,cy,822417261217421,Dr. Eleni Stavrou - Δρ Ελένη Σταύρου,Facebook
+d27fd3fd-76f6-49d5-841f-9d7ef28f1c3e,Emre Efendi,2023-01-12T14:56:59.481Z,edf79d8e-be3a-4da3-a25e-3138451a16d0,OTHER,Cyprus,cy,109699175288147,Emre Efendi,Facebook
+16d8c7b4-0e0f-45f7-a7f7-cc18596d5da6,Ayia Napa Municipality - Δήμος Αγίας Νάπας,2023-01-12T14:56:59.616Z,e2e282d7-757a-4c1c-8577-049f2ff992dd,OTHER,Cyprus,cy,317812228341573,Ayia Napa Municipality - Δήμος Αγίας Νάπας,Facebook
+8502b966-e4a1-4210-be84-ef25d551eb13,Ceyhun Kırok,2023-01-12T14:56:59.615Z,b9f5c435-6bcc-4f03-8376-c96f25ff8031,OTHER,Cyprus,cy,103261919272594,Ceyhun Kırok,Facebook
+94e233df-2acc-4720-8a1b-17b1542667bf,Ahmet Yalçın Benli,2023-01-12T14:56:59.180Z,869e1c48-b01b-44ed-8b1d-03101684793d,OTHER,Cyprus,cy,149438919257011,Ahmet Yalçın Benli,Facebook
+b66c497b-6fec-4027-bae0-99b6ca7c1124,Andronicos CY,2023-01-12T14:56:59.558Z,ee35f019-d7d8-4b43-ab47-938119418f6c,IND,Cyprus,cy,100941196147544,Andronicos CY,Facebook
+5feb2304-4802-4d6f-b097-e8012a3495fe,DiEM25 Cyprus,2023-01-12T14:56:59.524Z,7a4698cb-58d4-4243-8b8b-38b86d3f7b0f,OTHER,Cyprus,cy,112262374694350,DiEM25 Cyprus,Facebook
+dab3d0a6-503b-439f-80bd-6f0ac80cfff6,Pafos Municipality - Δημος Παφου,2023-01-12T14:56:59.356Z,abf285c6-ddc6-47d9-a39c-e154e8f62ba8,OTHER,Cyprus,cy,380431408783809,Pafos Municipality - Δημος Παφου,Facebook
+0a448e73-830f-4257-8ab0-a174054197ce,Δήμος Σωτήρας - Sotira Municipality,2023-01-12T14:56:59.359Z,29e69b19-82a5-4f0e-ad04-d650ad14f2a0,OTHER,Cyprus,cy,234284796728060,Δήμος Σωτήρας - Sotira Municipality,Facebook
+7c2b8134-edf8-4f1b-a684-7625941cdd4d,Aziz Kaya,2023-01-12T14:56:59.419Z,35fb4080-7349-41ee-a9fe-7279f5138ffd,OTHER,Cyprus,cy,2056358494638202,Aziz Kaya,Facebook
+2fed60ca-ae17-4b67-967e-001b6ed4f754,Δήμος Αθηένου / Municipality of Athienou,2023-01-12T14:56:59.577Z,03d195d9-cd16-4030-abbd-1bfe6a436361,OTHER,Cyprus,cy,1402393833362684,Δήμος Αθηένου / Municipality of Athienou,Facebook
+1085c615-c034-4008-8acb-890bd3a84f32,Sonay Akgüney,2023-01-12T14:56:59.519Z,854bfa8a-4700-45c5-ab5b-9ef22bdb7f84,OTHER,Cyprus,cy,107124972252336,Sonay Akgüney,Facebook
+8aa0c325-8c4f-4486-9689-f02d88f93a33,Υφυπουργείο Τουρισμού,2023-01-12T14:56:58.959Z,e39ea359-0b9e-49d6-98ca-ba972b693e7b,GOV,Cyprus,cy,114633950337823,Υφυπουργείο Τουρισμού,Facebook
+ec72eb40-5059-49a9-84e6-2c76668c7667,Κίνημα Οικολόγων - Συνεργασία Πολιτών,2022-08-16T15:24:28.976Z,84d488be-93b1-4e65-98cf-d105bffc1c15,KOSP,Cyprus,cy,406404342873724,Κίνημα Οικολόγων - Συνεργασία Πολιτών,Facebook
+356ed50f-e947-4d56-bbed-48f644ed2bff,Salih Tokatlı,2023-01-12T14:56:59.445Z,7714802d-7e4d-4aad-a650-6c6a8ee822e9,OTHER,Cyprus,cy,732026886981540,Salih Tokatlı,Facebook
+2eedb42a-2d06-40b8-96cc-52a032398e34,Λευκωσία Κίνημα Οικολόγων - Συνεργασία Πολιτών,2023-01-12T14:57:00.181Z,80c39bfd-7ff0-4400-97ce-866a5f25da4c,KOSP,Cyprus,cy,109587827845372,Λευκωσία Κίνημα Οικολόγων - Συνεργασία Πολιτών,Facebook
+6ddf1a07-18a3-40a0-9b10-4fd08daf8cc2,Δήμος Μέσα Γειτονιάς,2023-01-12T14:56:59.404Z,16c0a489-7272-48ed-ba6a-17e9be3fdf8d,OTHER,Cyprus,cy,106427581398132,Δήμος Μέσα Γειτονιάς,Facebook
+0084a05b-c61b-468d-b722-ad73f3a22f40,European Year of Youth - Cyprus,2023-01-12T14:56:59.742Z,8256a4cc-1f05-404c-8bd0-9d6963910705,GOV,Cyprus,cy,107277812105589,European Year of Youth - Cyprus,Facebook
+60c13a67-65d2-4088-bd42-61e83cc5c964,Αβέρωφ Νεοφύτου - Averof Neofytou,2023-01-12T14:56:58.728Z,70cb9ad3-094f-4bcc-97a2-c2fa8c49297b,DISY,Cyprus,cy,256299421194660,Αβέρωφ Νεοφύτου - Averof Neofytou,Facebook
+00b94d71-bb5b-4817-a8dd-37dbd7c110b7,Σταύρος Παπαδούρης - Stavros Papadouris,2023-01-12T14:56:59.658Z,da0a3742-7095-4182-9c53-633e9ebf302c,KOSP,Cyprus,cy,999438000148342,Σταύρος Παπαδούρης - Stavros Papadouris,Facebook
+6b15c547-aa6a-4e5e-bff2-259e87fa97fe,Σωτήρης Ιωάννου - Βουλευτής Λάρνακας,2023-01-12T14:56:59.264Z,e683d545-5e22-4566-8c57-f64b8b1525ba,ELAM,Cyprus,cy,105970621764824,Σωτήρης Ιωάννου - Βουλευτής Λάρνακας,Facebook
+7c9552d2-a1c8-457b-9905-7b712bf6fd1b,Γραφείο Επιτρόπου Επικοινωνιών,2023-01-12T14:56:58.975Z,351a251e-c7df-4637-8eea-032566c45f24,GOV,Cyprus,cy,102944721782406,Γραφείο Επιτρόπου Επικοινωνιών,Facebook
+ab08faff-9d36-4f74-a365-b5f2fc9a9696,Γραφείο Τύπου και Πληροφοριών - Press and Information Office,2023-01-12T14:56:58.758Z,0352d6d1-56d4-43ed-8e4c-7ecaff502bf7,GOV,Cyprus,cy,620027974738907,Γραφείο Τύπου και Πληροφοριών - Press and Information Office,Facebook
+62bf4a15-fbb0-48ba-a526-fb119542a0f3,Βανέσσα Κυπριανού,2023-02-07T15:04:58.658Z,084de7c5-82d2-4ebd-adb5-35b5891b4770,DIKO,Cyprus,cy,101592808492465,Βανέσσα Κυπριανού,Facebook
+359986ad-ce78-4391-97e0-37e1d0c4af43,EU Justice and Consumers,2023-01-12T14:56:58.728Z,acb550bb-75fc-4db9-945f-44ada0e5165b,OTHER,Cyprus,cy,278117815576023,EU Justice and Consumers,Facebook
+4a0e21c5-9361-45c8-82fb-7562aec71a25,Ανδρέας Μαυρογιάννης - Andreas Mavroyiannis,2023-01-12T14:56:58.699Z,c0cd652f-5409-44d6-8daf-7b7fe9890716,AKEL,Cyprus,cy,104730922313108,Ανδρέας Μαυρογιάννης - Andreas Mavroyiannis,Facebook
+80b231bb-9dc2-408d-8573-47f29c9dfbd8,Mehmet Harmancı,2023-01-12T14:56:58.728Z,437f4c52-b874-4349-b80a-f5e30e85cfba,OTHER,Cyprus,cy,699709590070377,Mehmet Harmancı,Facebook
+224a0fec-a1fe-49a9-a27f-3d0ef3f10641,Κλάδος Αστυνομικού Σώματος-Ισότητα,2023-01-12T14:57:00.994Z,a4885232-804d-4479-8c4d-b378074045db,OTHER,Cyprus,cy,109252201264120,Κλάδος Αστυνομικού Σώματος-Ισότητα,Facebook
+33f301fb-7420-4f49-bb9b-3aa3c1229a1e,Fuat Namsoy,2023-01-12T14:56:58.758Z,1e4c9f14-c25b-4a69-a86e-a16755c1d6f1,OTHER,Cyprus,cy,109379988652594,Fuat Namsoy,Facebook
+5fd8e1e7-cb1d-46df-afb6-63c421a6db05,Sol Gençlik,2023-01-12T14:57:00.879Z,9b624fee-2db2-45c7-b1b7-f2770216ca78,OTHER,Cyprus,cy,111938757645143,Sol Gençlik,Facebook
+4c642638-b7ef-4c4e-b24e-3e5ed826ae78,Zeki Çeler,2023-01-12T14:56:58.959Z,1501d594-c61c-49b1-ba5e-7ebb2e233605,OTHER,Cyprus,cy,519155634805463,Zeki Çeler,Facebook
+632db8da-2b77-4ee3-819a-2339c4e48975,Devrim Barçın Blog,2023-01-12T14:57:00.920Z,7bf2faf3-e73c-418d-b9b9-001a081980cf,OTHER,Cyprus,cy,158059254764360,Devrim Barçın Blog,Facebook
+4d0717d1-62a7-476e-998f-3f40e1190dd6,Kıbrıslı Gazetesi,2023-01-12T14:56:59.578Z,da8f51c5-d287-4e08-a941-2c0c29b1641d,ZZZ,Cyprus,cy,104640191774007,Kıbrıslı Gazetesi,Facebook
+bbd04450-5c5e-4776-949b-f6b301c92e2d,Kıbrıs Sosyalist Partisi,2023-01-12T14:57:00.823Z,303ebcf2-e8ba-4735-8ab2-211a681a1068,OTHER,Cyprus,cy,1006626572685553,Kıbrıs Sosyalist Partisi,Facebook
+95ddee3c-040f-4bef-b2e5-3df5e02d165d,AKEL Türkçe,2024-02-16T06:04:19.682Z,522939f6-fdff-4e88-a2ef-3cfa0da2fec3,AKEL,Cyprus,cy,811609932267686,AKEL Türkçe,Facebook
+7b5f28ec-fb6e-40a2-bea1-228d660311a4,seriousfrivolity,2023-01-12T14:57:00.482Z,75e3fc4d-4a01-49d6-beac-ee61c92318b6,ZZZ,Cyprus,cy,110485711875542,seriousfrivolity,Facebook
+20ff6964-6a4c-449d-a4f6-7387c4f136c3,DOM,2023-01-12T14:57:00.336Z,1a3d0f41-78cf-4793-a188-ce9eb8bdfbb7,ZZZ,Cyprus,cy,788160538246073,DOM,Facebook
+9b2f5d15-7d0a-43a5-99d6-7aae99dfceae,Asbank,2023-01-12T14:57:00.180Z,48615d65-67c6-42b0-8f71-4231a1e8d0d8,ZZZ,Cyprus,cy,123193591751356,Asbank,Facebook
+a02566d5-4051-42cc-b525-eb6a4322a889,KTÖS,2023-01-12T14:57:00.238Z,6f2280b4-d1fc-46c4-a54d-e3403d3ef81b,ZZZ,Cyprus,cy,201956316618407,KTÖS,Facebook
+45fc808d-1faf-4aef-a76a-35d7dfdb6d03,Ygeiawatch,2023-01-12T14:56:58.973Z,9769d273-0477-41d3-b3f6-a370ca126206,ZZZ,Cyprus,cy,698669730577000,Ygeiawatch,Facebook
+a1a0a9fd-d06e-4975-b241-d7db89db5f38,Cyta,2023-01-12T14:56:59.920Z,0c47179b-89ae-4e2d-aaec-a4991c6f0cd5,ZZZ,Cyprus,cy,227051210753054,Cyta,Facebook
+7aaf4780-0afb-4f54-bdd6-cbd0546579ca,Cyprus Times,2023-01-12T14:56:58.996Z,f7fc733f-ca9d-45cb-ae7d-d9304f8e9985,ZZZ,Cyprus,cy,638668976238472,Cyprus Times,Facebook
+0f818f76-5000-4541-b20f-5ec0b92532cc,Ιερά Μητρόπολις Κωνσταντίας- Αμμοχώστου,2023-01-12T14:56:58.997Z,af31d9f6-041c-4c10-a02f-e5656d3410d8,ZZZ,Cyprus,cy,369722249746043,Ιερά Μητρόπολις Κωνσταντίας- Αμμοχώστου,Facebook
+faa5ed2e-97dc-4ae7-ade6-02e91b9bbe20,Bionic Electronics,2023-01-12T14:56:59.215Z,b51cc2f7-5da0-4e70-8394-20b1940c1172,ZZZ,Cyprus,cy,146987225361531,Bionic Electronics,Facebook
+e9e6092f-9bcf-4d34-8655-4156491cc44a,ΚΩΝΣΤΑΝΤΙΝΟΣ ΟΔΥΣΣΕΩΣ,2023-01-12T14:57:00.565Z,748d54ef-30aa-40a6-abd6-c2ed0eb3b1b2,ZZZ,Cyprus,cy,311289838967373,ΚΩΝΣΤΑΝΤΙΝΟΣ ΟΔΥΣΣΕΩΣ,Facebook
+a68fce36-0497-4abc-83bd-8b0ec156446d,Madame LeFo,2023-01-12T14:56:59.703Z,9b15a051-e4b7-4b1a-ba3c-b465c0ce9e1e,ZZZ,Cyprus,cy,353005621553829,Madame LeFo,Facebook
+e425ab74-2bfe-426e-819e-23a3d044607c,StockWatch Cyprus,2023-01-12T14:56:59.003Z,a1ed9819-fcd1-44bf-981d-f1aa0845beb2,ZZZ,Cyprus,cy,244607425634139,StockWatch Cyprus,Facebook
+af4cbf8c-6193-406c-88e0-d8a979831b45,Mermaid 119,2023-01-12T14:57:02.555Z,ec52714a-04d6-4318-9150-5592e5465426,ZZZ,Cyprus,cy,107081348851873,Mermaid 119,Facebook
+fb6effdd-66bd-4d04-9c4b-4040ac879dbe,Cyprus Center for Alternative Dispute Resolution,2023-01-12T14:56:59.002Z,d97ef0d2-971f-4bd3-96b8-5ab12ea0ab43,ZZZ,Cyprus,cy,2222575577961067,Cyprus Center for Alternative Dispute Resolution,Facebook
+c11ff6e3-2013-4164-ae61-12f2e00313dd,Source of_4,2023-01-12T14:57:02.219Z,ff1947b8-a689-49ff-beab-d0b3fde4362d,ZZZ,Cyprus,cy,106316085606854,Source of_4,Facebook
+09602eaa-b77c-4f68-baf5-926372f8bf3b,Όμιλος Βιοιατρική - Χημείο Γιαννουκά & Άλφα Εύρεσις,2023-01-12T14:56:59.075Z,f47add95-b7ab-4188-b365-4c2b657d96aa,ZZZ,Cyprus,cy,465987706758805,Όμιλος Βιοιατρική - Χημείο Γιαννουκά & Άλφα Εύρεσις,Facebook
+ed20f238-a555-4b2c-a675-b0a0b3a15f50,Nature Africa,2023-01-12T14:57:02.335Z,8eef1116-2304-435d-85e3-5f187212c604,ZZZ,Cyprus,cy,100591148612371,Nature Africa,Facebook
+e965d6c4-ed0b-4dee-b960-237e526361a7,Akx-111-4,2023-01-12T14:57:02.435Z,8b5ea19c-5932-4303-82c3-181d5d309c95,ZZZ,Cyprus,cy,100396306223701,Akx-111-4,Facebook
+fbafdc94-f04a-4f6b-b1fb-20a40cc2cea0,Μαχαιροχώρια,2023-01-12T14:56:59.105Z,eb9612fb-36a8-4733-96b7-ff80bf7e50ab,ZZZ,Cyprus,cy,152323649047719,Μαχαιροχώρια,Facebook
+e2b3dd7d-ed25-49f5-a173-0c76893c5b5c,GrantXpert Consulting,2023-01-12T14:57:00.180Z,e717251b-1cf6-4249-801a-a1067d3ea413,ZZZ,Cyprus,cy,467875386560934,GrantXpert Consulting,Facebook
+4df347f9-583c-4508-8782-e013c4fa2a6d,Columbia World-Wide Movers Ltd,2023-01-12T14:57:00.876Z,b719c997-994b-4d90-87e4-4560dfd8e7df,ZZZ,Cyprus,cy,926536267380684,Columbia World-Wide Movers Ltd,Facebook
+90421cb7-3acd-404b-b446-940e78d663a6,Web Market Support,2023-01-12T14:57:01.217Z,29bf3a40-134e-4b9a-a3c2-09fbfa034e89,ZZZ,Cyprus,cy,107939721404916,Web Market Support,Facebook
+f4e6b89e-c878-43af-87df-3f39ebeade86,Kalia Loizidou School Psychologist & Career Counselor,2023-01-12T14:57:00.479Z,30e11ecd-7ab7-4cff-ad3d-68ceab455186,ZZZ,Cyprus,cy,892427880871702,Kalia Loizidou School Psychologist & Career Counselor,Facebook
+65324ed2-dfdc-4a1d-a573-3468ced61e46,Air China,2023-01-12T14:57:01.440Z,80bb600d-548d-4850-bc6a-8c523be012b1,ZZZ,Cyprus,cy,145752338944033,Air China,Facebook
+7f87868a-4edf-4767-8aa0-2321f99baa2b,T1215-7,2023-01-12T14:57:01.498Z,331e6f31-c72b-4f70-9db5-a76f77c51a43,ZZZ,Cyprus,cy,105257432441286,T1215-7,Facebook
+cf52a956-43d9-4405-a82a-dd56d873f9f4,Abdullah Atuay,2023-01-12T14:57:01.701Z,53cefa0f-2964-44b3-81e4-d198c5f46a79,ZZZ,Cyprus,cy,107238837992824,Abdullah Atuay,Facebook
+40d74943-3518-409c-89b5-8f116a12ee6c,Poupas for Holidays,2023-01-12T14:57:00.819Z,453826f1-4d6c-44a3-91fe-9fe849ecef5d,ZZZ,Cyprus,cy,608799702604578,Poupas for Holidays,Facebook
+9e248633-1389-4444-8d87-821c1aa85cf9,Energyintel Services Ltd,2023-01-12T14:56:59.117Z,52498809-d237-4b92-9e37-7dd267061a99,ZZZ,Cyprus,cy,477173845681759,Energyintel Services Ltd,Facebook
+b70b96ec-a3d4-44db-bc23-d528a8518804,denizzmiy,2023-01-12T14:57:00.555Z,89e3a78b-ecae-452e-9452-3b2297120684,ZZZ,Cyprus,cy,103851445641931,denizzmiy,Facebook
+9c43bada-11e1-4ad2-a788-59ad28fc873a,UNHCR GREECE,2023-01-12T14:56:59.802Z,d84552bb-d173-4092-b35e-06ac689c5b8f,ZZZ,Cyprus,cy,130154107009856,UNHCR GREECE,Facebook
+19e8eadc-f96f-48af-b00a-19ca2039051e,KAYAD,2023-01-12T14:57:00.395Z,544ab226-e06a-448e-95f9-b17b4ea3d688,ZZZ,Cyprus,cy,1484958668457385,KAYAD,Facebook
+a7c06b20-7870-40b8-b22a-3777aa330da2,Iris Association CY,2023-01-12T14:57:00.239Z,b0445e85-62a2-4fbb-86c0-af0ed9aa387a,ZZZ,Cyprus,cy,102748418418464,Iris Association CY,Facebook
+a2e82cfb-1b0e-4f44-a538-c015923344a3,Tao from CGN,2023-01-12T14:57:02.539Z,6d5611a1-e7b9-43a8-8a2a-2553531854a6,ZZZ,Cyprus,cy,113353631588340,Tao from CGN,Facebook
+a8010c87-a304-4750-ba46-7b6545eb4bae,Avant Garde Cyprus,2023-01-12T14:56:59.196Z,63f0c9e6-7dad-48e0-95b0-22078084a6b6,ZZZ,Cyprus,cy,110548385691169,Avant Garde Cyprus,Facebook
+0698dad6-9dfc-44e0-9343-4b891c921fd7,920_Tb,2023-01-12T14:57:01.918Z,30150dd5-eb25-4000-94f1-f62380cdf394,ZZZ,Cyprus,cy,101445002737329,920_Tb,Facebook
+9639bfbd-ee47-4ab7-8942-d25eabfb8640,MyLife,2023-01-12T14:56:59.264Z,dd5ec274-00bf-47fd-a554-cfcc935132e1,ZZZ,Cyprus,cy,313200798730582,MyLife,Facebook
+6c92265d-f684-4dd8-b9dc-947610f14887,Ergodotisi,2023-01-12T14:57:00.598Z,2ab9e821-6169-4a61-966e-f45cf2690ec3,ZZZ,Cyprus,cy,222339361195595,Ergodotisi,Facebook
+dd307bda-7e74-4b62-b226-ea5faaf259d4,Dame HCQC Cho Die454189,2023-01-12T14:57:02.174Z,576ae2e6-fea0-4346-bb98-746d73c64b8a,ZZZ,Cyprus,cy,111383098363725,Dame HCQC Cho Die454189,Facebook
+6b915273-495c-4ecb-bb8f-031b65202536,Οργανισμός Νεολαίας Κύπρου / Youth Board of Cyprus,2023-01-12T14:57:00.355Z,36bd4b5b-5aad-46ab-98d8-d3ce14a2e29a,ZZZ,Cyprus,cy,359990714123068,Οργανισμός Νεολαίας Κύπρου / Youth Board of Cyprus,Facebook
+aa2e28c2-ea74-44fb-898b-5e87e2be669c,Class'Affaires,2023-01-12T14:57:02.236Z,cc3710f8-2643-487f-a90b-3153b45078db,ZZZ,Cyprus,cy,2361220827437398,Class'Affaires,Facebook
+d33c2604-1a0f-4369-843f-26bb99ce3f75,Vortex Ajans Kıbrıs,2023-01-12T14:56:59.919Z,f4e270e4-7516-4e95-bab7-d83f13d1cd2b,ZZZ,Cyprus,cy,113019954959088,Vortex Ajans Kıbrıs,Facebook
+4b27013a-7643-4013-86e3-5a3341b1dd84,Aon Cyprus,2023-01-12T14:56:59.714Z,d4ce78e7-3955-4e70-9e85-05afac102a6e,ZZZ,Cyprus,cy,533373550026645,Aon Cyprus,Facebook
+e4797391-661d-443e-a691-9c6b94171ba0,Brown Alumni & Friends,2023-01-12T14:57:01.738Z,aac03e33-33a1-421f-baa3-ea4f84186aaa,ZZZ,Cyprus,cy,8497127539,Brown Alumni & Friends,Facebook
+aaa9ddc2-5338-40f6-9e43-21fab86a7473,Spectee,2023-01-12T14:57:02.558Z,4ecf24dc-22fc-4089-8dfa-75015e487ff0,ZZZ,Cyprus,cy,196230137801050,Spectee,Facebook
+e2d405e2-c6d2-4f87-b420-6087a7b61105,Ilovestyle.com,2023-01-12T14:57:00.734Z,d8e49961-6343-42c3-8e16-2d046bb4af8d,ZZZ,Cyprus,cy,345716732163577,Ilovestyle.com,Facebook
+9aef0b5b-78a5-49fa-8ebe-a3a3d1cd2545,Guidable,2023-01-12T14:57:01.859Z,fa1b0f44-98b2-4d26-989a-98c8468adbe6,ZZZ,Cyprus,cy,500259383489171,Guidable,Facebook
+2111d361-59a7-46a2-ab6f-16e2a2d56b5c,China.org.cn,2023-01-12T14:57:01.375Z,158cd716-2bde-49ef-b075-c6a4d58d7eff,ZZZ,Cyprus,cy,371171589575669,China.org.cn,Facebook
+f1cc547f-8b87-4366-b09f-bb025a786bb1,Контекст Европа,2023-01-12T14:57:02.138Z,548838ce-c74f-449f-bf40-01e4602dbc39,ZZZ,Cyprus,cy,101727068829380,Контекст Европа,Facebook
+77c9ca53-d0c6-4720-8611-3402622bc0fb,MRS Universe Asia USA 2022,2023-01-12T14:57:01.480Z,eeef3124-3b24-46cc-8c56-93dccc4e0c96,ZZZ,Cyprus,cy,107441672063262,MRS Universe Asia USA 2022,Facebook
+51c9948f-1a1f-4ea8-ba93-fe42c8c1b2ea,wo.her,2023-01-12T14:57:02.157Z,93a2fdd1-1a4f-4a53-a21c-2628f4b493b0,ZZZ,Cyprus,cy,100862432656402,wo.her,Facebook
+3e08e6ca-4b64-442d-a293-a2960202e489,Kingsboss Tv,2023-01-12T14:57:02.238Z,4f598b3a-358d-4386-b80b-6d65d2d0208e,ZZZ,Cyprus,cy,102236795861091,Kingsboss Tv,Facebook
+97ad99ee-af0c-41a4-acde-ed51dd1fff9a,Rapid president,2023-01-12T14:57:01.676Z,6c0ebd6f-86e0-43f1-a88d-e89cf4029e05,ZZZ,Cyprus,cy,103755685914278,Rapid president,Facebook
+bfe4c79b-1197-4fe5-a7e9-efaa44775f01,MySeminars.com.cy,2023-01-12T14:57:00.815Z,20a04e27-cf13-414b-91c3-067c02bd52cc,ZZZ,Cyprus,cy,1936703063230601,MySeminars.com.cy,Facebook
+50736454-23ad-4b41-bc9a-23d9a51e6993,dart.danu,2023-01-12T14:57:01.577Z,3f2ab5e9-a5d6-400b-969b-e3235d0f44e1,ZZZ,Cyprus,cy,100519821859175,dart.danu,Facebook
+08fb07dc-bf0b-4f9a-9aa1-8b16511fc945,Famagusta Avenue Garage,2023-01-12T14:57:00.294Z,23a6417e-8efd-486b-b0f0-69327c15edf5,ZZZ,Cyprus,cy,107617507249526,Famagusta Avenue Garage,Facebook
+41e51fd5-868e-4536-8119-bbb5fc9ba9ac,O κήπος εν δικός μας,2023-01-12T14:57:00.858Z,4293b240-b4ee-47fa-81bf-7a0f8f1dffcb,ZZZ,Cyprus,cy,102314269348424,O κήπος εν δικός μας,Facebook
+39ab08c3-a383-4285-b406-a2429dc4a2fd,OMEGAlive,2023-01-12T14:57:00.500Z,ef7a7582-b9c5-4c84-a016-bce6cf2d0784,ZZZ,Cyprus,cy,175251010071307,OMEGAlive,Facebook
+5d2c27bc-6dc9-4a4b-9fd5-fa3985470be1,Allianz Care,2023-01-12T14:57:01.345Z,ede5287f-3139-4720-b87f-cfad11f13ea1,ZZZ,Cyprus,cy,119257941437791,Allianz Care,Facebook
+9e35bc73-2b9e-4c73-b6ea-afeadee2cbd3,Puppeteeress,2023-01-12T14:57:01.740Z,c959220e-bb34-4c94-b8fa-3b49fb1e411b,ZZZ,Cyprus,cy,725845994246131,Puppeteeress,Facebook
+5a1bde0b-ace4-42f7-8e13-75d296df8a35,ShootandGoal,2023-01-12T14:56:59.383Z,c0436ffe-6298-4260-8344-a74d294765eb,ZZZ,Cyprus,cy,314432094055,ShootandGoal,Facebook
+7e8b8cd5-230b-4f0f-b70c-b8990bea64fc,Sönmez Store,2023-01-12T14:57:00.899Z,6130832a-a48e-4e74-b3f2-c2961edf1a22,ZZZ,Cyprus,cy,100153241734836,Sönmez Store,Facebook
+ddf3c1a6-31e5-49d4-9e2d-38b31bc3881f,Xavier Cormier,2023-01-12T14:57:00.874Z,74f3d015-3a37-4ae5-b250-a0315bf527b1,ZZZ,Cyprus,cy,324253041382779,Xavier Cormier,Facebook
+46b58975-0383-4aa1-9a7f-3d2f9cca76ac,Kıbrıs Modern Sanat Müzesi,2023-01-12T14:57:00.573Z,80363cd6-9766-4d61-bff3-0795dbc8b90d,ZZZ,Cyprus,cy,255796125283484,Kıbrıs Modern Sanat Müzesi,Facebook
+618a72fe-ea02-4cf9-9a93-10e8204c99e7,Mediterranean Institute of Gender Studies (MIGS),2023-01-12T14:56:59.936Z,f2406414-5e52-4ea7-82a6-24d3e2d12cd2,ZZZ,Cyprus,cy,118186911528334,Mediterranean Institute of Gender Studies (MIGS),Facebook
+331bf2b5-3c5f-475e-8c92-042a7eaf39bc,Μεντιουμ/Αστρολογος,2023-01-12T14:57:00.461Z,115f99c8-c9f5-40ef-a9fe-eb15db6ec8a0,ZZZ,Cyprus,cy,1337349686295101,Μεντιουμ/Αστρολογος,Facebook
+6f6152b7-66b7-4d85-9f0c-7eede7726226,Sweet Home Estates,2023-01-12T14:56:59.860Z,3e4e7712-d6bd-4fa1-8177-1e624391db8a,ZZZ,Cyprus,cy,523480667678597,Sweet Home Estates,Facebook
+5ce7ef0e-27d6-4a77-8bb8-5cf84ac3fe59,İnsan Hakları Platformu - Human Rights Platform,2023-01-12T14:57:00.404Z,e4e2ddb2-5c8c-4b42-9e21-bb32fc6e69ae,ZZZ,Cyprus,cy,101695305669468,İnsan Hakları Platformu - Human Rights Platform,Facebook
+64000323-bbdc-4b21-be00-7e48e5bec252,apocalypto.cy,2023-01-12T14:57:00.218Z,9b528371-851d-4e33-9425-37848bf700e3,ZZZ,Cyprus,cy,441685099357733,apocalypto.cy,Facebook
+8f89ff25-458e-4cdc-99c4-cbde05180d22,LegalMatters,2023-01-12T14:56:59.777Z,e7421ab6-491c-4d2d-9361-0fe02a738304,ZZZ,Cyprus,cy,313134405833857,LegalMatters,Facebook
+1e4998f3-21cc-4c44-a267-acd12dcf76bf,DeLeMa McCANN Cyprus,2023-01-12T14:57:01.497Z,5f55750d-92f5-431a-a66a-2896aa433c45,ZZZ,Cyprus,cy,136015576474823,DeLeMa McCANN Cyprus,Facebook
+dfc95e9d-3f05-4087-b35a-8417f5285444,Ορθόδοξη Κύπρος,2023-01-12T14:56:59.997Z,5748cb3e-83d7-49d2-bd08-3d91e6c3baad,ZZZ,Cyprus,cy,108864138491933,Ορθόδοξη Κύπρος,Facebook
+8bad03e7-84f8-4b7d-b336-b836e72fc98d,Α.Φ.Η.Σ. Κύπρος (AFIS Cyprus),2023-01-12T14:57:00.341Z,85a0d6ab-1318-4c55-aebd-b84a49ede61a,ZZZ,Cyprus,cy,266798310094103,Α.Φ.Η.Σ. Κύπρος (AFIS Cyprus),Facebook
+ae290aa7-052d-4345-ab6c-a8975f1e3d03,Mülteci Hakları Derneği,2023-01-12T14:57:00.007Z,d889aeed-295d-4e46-a4f7-15d565ad850c,ZZZ,Cyprus,cy,340440252735081,Mülteci Hakları Derneği,Facebook
+efe9d37d-bf0a-4440-833c-764138ca70c7,Nemitsas Ltd.,2023-01-12T14:56:59.664Z,cfa92bcd-ca3c-466c-8d2a-31d59c314528,ZZZ,Cyprus,cy,799515186812344,Nemitsas Ltd.,Facebook
+32a647ec-c505-434a-9cb8-c573a4efa4c1,McDonald's,2023-01-12T14:56:59.816Z,ddda71d8-e930-4c99-993b-a0e16b6555f7,ZZZ,Cyprus,cy,186855391368186,McDonald's,Facebook
+9543a4e0-e5f5-4f1b-a294-e7b05233ce90,Pissis Ltd,2023-01-12T14:56:59.679Z,cdbdfd98-1f7d-4550-abdc-d5e5c0419c28,ZZZ,Cyprus,cy,213335395425425,Pissis Ltd,Facebook
+e0d137b2-d519-4c5a-9a19-d65ce350e00c,Bank of Cyprus Cultural Foundation,2023-01-12T14:56:59.595Z,f1c41a10-6531-4ad4-bfb8-53178f64002f,ZZZ,Cyprus,cy,520062074776821,Bank of Cyprus Cultural Foundation,Facebook
+03ce4375-51ce-4f80-a338-e015be606fa1,GNORA Communication Consultants,2023-01-12T14:56:59.620Z,f4675dc4-e900-4a07-a7d4-0308e9afa89f,ZZZ,Cyprus,cy,403291109741566,GNORA Communication Consultants,Facebook
+0a374092-6463-4755-9f73-5e141e0c7c53,Kayıp Şahıslar Komitesi Kıbrıs - KŞK,2023-01-12T14:56:59.438Z,80e95071-0f93-4a4b-b289-8a5ce7473e37,ZZZ,Cyprus,cy,338094740170012,Kayıp Şahıslar Komitesi Kıbrıs - KŞK,Facebook
+a34e0a91-e4c4-42f2-a7d0-7723f3fb6b28,Sophia For Children,2023-01-12T14:56:59.575Z,4840f8fb-d17d-44e6-8d00-88977b387075,ZZZ,Cyprus,cy,310934165676880,Sophia For Children,Facebook
+72235826-df10-4cf4-a9c5-e57d50e4b71e,SPACEMAN,2023-01-12T14:57:02.497Z,4804616b-a493-4e2c-8360-f80d2c9abe0e,ZZZ,Cyprus,cy,104130941654107,SPACEMAN,Facebook
+e054ce60-9f07-414c-9533-580648df99c2,Spotlight Beijing,2023-01-12T14:57:02.338Z,868e70f0-4327-454f-8116-4de62ccc318d,ZZZ,Cyprus,cy,100539877985698,Spotlight Beijing,Facebook
+985c5dbd-8bed-420e-8c7a-7dcacea87191,McMillan Woods Cyprus,2023-01-12T14:57:00.924Z,450e3218-011d-4dfe-9ad4-e077487c14ea,ZZZ,Cyprus,cy,308822429710802,McMillan Woods Cyprus,Facebook
+12bf9959-cfa6-4872-8a7a-145ed7e8c8f5,Dreamof resource,2023-01-12T14:57:02.434Z,0d3862d9-e139-46fc-848b-9a303ab5ccd4,ZZZ,Cyprus,cy,114026591554469,Dreamof resource,Facebook
+33f9ae8c-574b-4c6b-8677-0b62bb92c322,CRI - Rádio Internacional da China,2023-01-12T14:57:01.385Z,57e9cdac-1386-4d30-a523-215ad7db6164,ZZZ,Cyprus,cy,1518216038506999,CRI - Rádio Internacional da China,Facebook
+db24ec35-b5f6-49cf-abcd-5582554b5208,Bain & Company,2023-01-12T14:57:01.859Z,b3f8da7a-cd41-42fe-b5af-4e51a4b64b4e,ZZZ,Cyprus,cy,137690650043,Bain & Company,Facebook
+f1d0aba2-2e1d-4c90-b932-838aee881fe2,0926_at,2023-01-12T14:57:01.518Z,1fc6f37a-8c23-4b88-9d8f-53d096d67108,ZZZ,Cyprus,cy,106671205545495,0926_at,Facebook
+b24151b9-3b07-45d7-bf03-726c2cd5fa1d,CanadaQBank.com,2023-01-12T14:57:01.698Z,ba831f97-539b-4746-8d9d-2f383f39615c,ZZZ,Cyprus,cy,351076345007481,CanadaQBank.com,Facebook
+a152e909-7dae-49f9-8e95-078427a2801a,Discover Beijing,2023-01-12T14:57:02.255Z,e57fee1e-d654-4bc7-bc6e-844a8d43dda2,ZZZ,Cyprus,cy,110250330354380,Discover Beijing,Facebook
+d6a0815f-0e63-44db-90ff-a986efb5faf2,Probably immigration,2023-01-12T14:57:01.855Z,a6467949-d9a7-4d43-abbc-b142288ab19c,ZZZ,Cyprus,cy,103235859312409,Probably immigration,Facebook
+35bd3741-46a8-47fc-9bd2-5ad12126555a,esrataskinofficial,2023-01-12T14:57:01.994Z,6e417d41-87b8-4c82-af7f-8531034c6bba,ZZZ,Cyprus,cy,102266545907696,esrataskinofficial,Facebook
+ea2e5ec2-b9c4-469d-b4b9-5b4c1f85aebd,k-mag.gr,2023-01-12T14:57:01.101Z,11186593-db4b-4d8e-b8ed-cd417a00a809,ZZZ,Cyprus,cy,230294303741058,k-mag.gr,Facebook
+f376f831-dd81-4ec1-afa9-c59a152e66c9,Passage wombat,2023-01-12T14:57:01.121Z,12f3155e-c386-47a4-ab43-37457570d8b9,ZZZ,Cyprus,cy,108200448809169,Passage wombat,Facebook
+c55b762a-16e3-4ad8-a684-41223765c3ec,Πολιτιστικός όμιλος Άρτιον Λάρνακας,2023-01-12T14:57:00.992Z,02d3def1-99b1-45d5-b075-dfd76ce7eba3,ZZZ,Cyprus,cy,282382651919024,Πολιτιστικός όμιλος Άρτιον Λάρνακας,Facebook
+85d427e8-33c6-4c15-b76a-ac0d5c57ec2d,Άγιος Γεώργιος  Εστιατόριο -Ταβέρνα,2023-01-12T14:57:00.600Z,5905b2b3-b1e5-48fe-818a-062fe8d8524e,ZZZ,Cyprus,cy,100891548992415,Άγιος Γεώργιος  Εστιατόριο -Ταβέρνα,Facebook
+a2b8a480-196d-401f-8521-e8e8a91fcebc,WEEE Cyprus,2023-01-12T14:57:00.561Z,8efe3325-941b-4535-aaa4-37b4a71bc091,ZZZ,Cyprus,cy,102877895515543,WEEE Cyprus,Facebook
+c21b0768-f8c1-4d38-9e01-c05e901771b0,Madame Figaro Cyprus,2023-01-12T14:57:00.436Z,e96251a9-05cb-4c86-8dd4-1cdfa4860db0,ZZZ,Cyprus,cy,134072880051806,Madame Figaro Cyprus,Facebook
+3ae97264-c0a2-4859-8d3f-0b99469f8749,Economy Rent a Car,2023-01-12T14:57:01.381Z,c4e44b3c-7bc0-40dd-a084-886d5eb36846,ZZZ,Cyprus,cy,179421405524768,Economy Rent a Car,Facebook
+ab768efd-2172-49c6-80a4-4774c805db4e,Κρατικά Βραβεία Λογοτεχνίας,2023-01-12T14:56:59.275Z,17ca1c50-d691-4f23-a771-a896a6589c5f,ZZZ,Cyprus,cy,102340129383976,Κρατικά Βραβεία Λογοτεχνίας,Facebook
+1a1fd0ee-8678-479a-829d-a64232ee0ce7,The Cyprus Political Television,2023-01-12T14:56:59.461Z,69691920-36a5-4220-b97f-d0ce4a81bff0,ZZZ,Cyprus,cy,100398562131226,The Cyprus Political Television,Facebook
+4b831c30-c1ad-4a90-aef5-7937ec13263c,Cappiello Shana,2023-01-12T14:57:01.695Z,2d9a27d3-94a9-4b21-ae3a-be054aaa4e2b,ZZZ,Cyprus,cy,110185305157867,Cappiello Shana,Facebook
+ce7389a9-9fac-4b91-87f4-8f940fe1ee78,StudentLife.com.cy,2023-01-12T14:57:00.202Z,74278651-335d-4a2e-b835-21959a2763e7,ZZZ,Cyprus,cy,219265161533109,StudentLife.com.cy,Facebook
+6cb7e66d-5eed-4d92-a085-7f114ca6a183,MAKE MDPI,2023-01-12T14:57:01.599Z,1ddef85e-8583-458c-80f3-90c51824fcbd,ZZZ,Cyprus,cy,107753762060349,MAKE MDPI,Facebook
+434927bf-a387-4af1-9650-410c335b84dc,The Daily Med News,2023-01-12T14:57:00.151Z,cad9b8ba-ec30-4142-88cd-e497317ca57c,ZZZ,Cyprus,cy,110278131794312,The Daily Med News,Facebook
+956c8e00-66e1-411e-8e33-74a13e38d4d1,CARDET,2023-01-12T14:56:59.814Z,a7a22291-817c-4035-b3d6-a1d68ec7bd7f,ZZZ,Cyprus,cy,206470649447499,CARDET,Facebook
+b33ea283-7c6c-4203-805d-dbc09e995902,moha_el_az,2023-01-12T14:57:01.475Z,9f537358-ee44-4770-9081-3d7a6b23772f,ZZZ,Cyprus,cy,126334398764021,moha_el_az,Facebook
+8b4f7028-0409-4625-8ad3-4a03d88c83df,Ronald McDonald House Charities Cyprus,2023-01-12T14:56:59.661Z,8e5c3c16-8965-433f-9aee-bfc6ec5e4dab,ZZZ,Cyprus,cy,740786752650876,Ronald McDonald House Charities Cyprus,Facebook
+91aea266-f5b3-45c3-8ea8-c444241d0715,soner.karadag,2023-01-12T14:57:01.538Z,540dc262-f9bf-4490-9263-bdd2712e1d6d,ZZZ,Cyprus,cy,107934472112028,soner.karadag,Facebook
+66228d9c-e320-43f8-8977-797ee35b8917,Οικολογική Κίνηση Κύπρου,2023-01-12T14:56:59.703Z,2e7e6efe-3f35-42de-bb0b-9c72a5bf3ecc,ZZZ,Cyprus,cy,766486330396608,Οικολογική Κίνηση Κύπρου,Facebook
+c1ed4377-829b-4805-bbe5-b80a96137ecd,SupportCY,2023-01-12T14:56:59.604Z,d6cb5656-11a8-4785-99c2-fefc34035dbd,ZZZ,Cyprus,cy,105402321169347,SupportCY,Facebook
+1775bf78-aeaa-4aae-8570-b0340e682adc,ΝΕΑ ΕΠΟΧΗ Πολιτιστικό Περιοδικό,2023-01-12T14:57:01.043Z,d5f3e211-e57a-49f1-9592-3d11a183464f,ZZZ,Cyprus,cy,258144574701088,ΝΕΑ ΕΠΟΧΗ Πολιτιστικό Περιοδικό,Facebook
+0ec66753-65bc-42ef-a7bd-ef13df397fc5,Komuro homeland,2023-01-12T14:57:02.414Z,bffcf5bd-033a-46af-ab38-88236d4ce367,ZZZ,Cyprus,cy,107302922233781,Komuro homeland,Facebook
+0a55ed73-920c-4aca-8905-4f37a461553a,liskova_maryna,2023-01-12T14:57:01.019Z,530b51fb-6498-4fcd-9f3a-861b3f9ed577,ZZZ,Cyprus,cy,105406002354097,liskova_maryna,Facebook
+31e31dbf-0d84-469f-8da6-b6e607096764,Cleverst,2023-01-12T14:57:02.315Z,20b6017b-d0a8-4325-8238-dac3004db9c4,ZZZ,Cyprus,cy,1731004657226567,Cleverst,Facebook
+9268ea15-9cbf-4352-86d0-16b1a553f488,elif_erar,2023-01-12T14:57:02.138Z,59bd39cf-445b-4a6b-98f2-f54292073a1b,ZZZ,Cyprus,cy,111193597854966,elif_erar,Facebook
+0185e3e9-e1a3-47fa-9271-b13bdae31a00,Get Deen,2023-01-12T14:57:01.954Z,27961ae8-04eb-4426-8a99-ea9c62a94772,ZZZ,Cyprus,cy,297115847031767,Get Deen,Facebook
+be913c7f-42b6-45b4-9a73-7682c3b3b596,Edo Tourkia - κανάλι YouTube,2023-01-12T14:57:00.898Z,03bffb8a-5bff-46fa-99b0-233404b46058,ZZZ,Cyprus,cy,968431229892899,Edo Tourkia - κανάλι YouTube,Facebook
+81cf9266-e95a-43b5-9df7-9483fb67d414,ASEFEdu,2023-01-12T14:57:01.898Z,35f84c76-e11e-43ef-95ed-246d16a1c33c,ZZZ,Cyprus,cy,559757160829105,ASEFEdu,Facebook
+fa6d1ffc-2ee3-425e-983b-90fe38bb6e9a,Dr. Argyris Argyriou Paediatrician,2023-01-12T14:57:01.101Z,97743822-0c5d-4343-ba35-ec37def79ef1,ZZZ,Cyprus,cy,238159443186778,Dr. Argyris Argyriou Paediatrician,Facebook
+3082ab30-0b23-4476-9541-1e64bb20df80,greeksforthevoiceless,2023-01-12T14:57:00.538Z,2776f010-48f1-4d40-9bc9-21c67afbd4fc,ZZZ,Cyprus,cy,107776148526351,greeksforthevoiceless,Facebook
+e90511f6-f7ab-43ab-b843-b8a77b6f986b,JLCA Lawyers Abogados España,2023-01-12T14:57:01.223Z,98814c4b-3394-44e3-bb16-6c107420c081,ZZZ,Cyprus,cy,1519267084961687,JLCA Lawyers Abogados España,Facebook
+0efac836-7aec-4bd0-9ff5-3602e09600f9,fassker.cover,2023-01-12T14:57:01.278Z,aab7823a-ab2d-40ff-a257-5fef722a25b5,ZZZ,Cyprus,cy,101228658275135,fassker.cover,Facebook
+52090ef2-5aad-4474-ae40-4c11ebcc86dd,Beurer Cyprus,2023-01-12T14:57:00.483Z,c6e77607-df19-4982-b4cc-7aca14a66e76,ZZZ,Cyprus,cy,112505519368851,Beurer Cyprus,Facebook
+aec91990-34e5-498f-ab56-545159e24827,Neapolis University Pafos,2023-01-12T14:56:59.734Z,0f04df85-0200-44db-859e-07222c0d2d3c,ZZZ,Cyprus,cy,126890420680422,Neapolis University Pafos,Facebook
+4f682d6e-2bbc-4d25-9107-cebabb673b68,Ἄπειρον Γραφικαί Τέχναι,2023-01-12T14:57:00.418Z,57f0faf8-2e54-49e5-adda-e6a31ded64ec,ZZZ,Cyprus,cy,101627171739614,Ἄπειρον Γραφικαί Τέχναι,Facebook
+86eb8b7c-e665-42c6-96b3-e62632396123,Engineering Webinars,2023-01-12T14:57:00.442Z,5be8f7d3-d647-42f9-816b-ccbe7fa1dfbc,ZZZ,Cyprus,cy,312022449603674,Engineering Webinars,Facebook
+11612e96-9a13-4698-aea3-5b4681ac882e,Aggregates Business,2023-01-12T14:57:01.343Z,ca0c29e1-0675-4b91-8a7c-2e4788feafb7,ZZZ,Cyprus,cy,112675286764083,Aggregates Business,Facebook
+fc7d2edd-e863-4802-8f26-20bdf6e8a022,"Ιατρικό Διαγνωστικό Κέντρο ""ΖΩΗ""",2023-01-12T14:57:00.395Z,60f440c1-7f7f-4b05-84c3-78b1db34f104,ZZZ,Cyprus,cy,103992374880994,"Ιατρικό Διαγνωστικό Κέντρο ""ΖΩΗ""",Facebook
+c5358b3f-5a6d-48a7-b182-3ef3cc7556bd,Discover Taicang,2023-01-12T14:57:01.463Z,f1dcd319-8b4e-4f92-9555-ce13a8dbba87,ZZZ,Cyprus,cy,104079862180641,Discover Taicang,Facebook
+a1b24599-fc3c-4c5b-adf1-9b04cdcdd574,Yy smart_6,2023-01-12T14:57:01.520Z,a9c838dc-7e6b-49d2-8b4a-b64d97f379e5,ZZZ,Cyprus,cy,108401882053159,Yy smart_6,Facebook
+5a474461-e14d-4f45-bc3d-61b411333d32,ftw.for.the.women,2023-01-12T14:57:00.953Z,516208c6-fd83-462d-a519-26c05bef3ede,ZZZ,Cyprus,cy,108712858155517,ftw.for.the.women,Facebook
+ccbecf79-562d-4207-aac0-39eee45e930f,DOMCar,2023-01-12T14:57:00.345Z,e42b72f6-be40-40f4-b3d4-6fdd04d9bae0,ZZZ,Cyprus,cy,107463488846117,DOMCar,Facebook
+f77d06d2-eba3-4864-8ec4-3973d7ac95f0,Δέφτερη Ανάγνωση,2023-01-12T14:57:00.321Z,6c5054af-ddf6-4853-a0d0-aa4d029791e9,ZZZ,Cyprus,cy,269153639847159,Δέφτερη Ανάγνωση,Facebook
+44f40955-8b56-4a05-b4a5-b814c1b828ef,Вестник Кипра (Vestnik Kipra),2023-01-12T14:57:00.297Z,bb6ff939-d7a8-4eda-9758-288579ef03b3,ZZZ,Cyprus,cy,133773460030291,Вестник Кипра (Vestnik Kipra),Facebook
+26ab77de-e1c3-4d0f-8fa9-ab8042e9a617,Ίδρυμα Ανδρέας Αρμεύτης,2023-01-12T14:57:00.203Z,c57544dc-9b78-4113-8175-35dbfaa6c6a1,ZZZ,Cyprus,cy,909798285749034,Ίδρυμα Ανδρέας Αρμεύτης,Facebook
+1ada337c-44d7-48e2-b641-566d08525d21,Cyprus Daily,2023-01-12T14:56:59.316Z,bd73b052-af3e-44a7-8865-324e5f75420f,ZZZ,Cyprus,cy,1259389827467923,Cyprus Daily,Facebook
+4244a4cf-166d-4ae0-957a-30ac4f8afce8,Trojan Economics,2023-01-12T14:56:59.364Z,d3618d9c-47c9-4bb5-a014-387f1c53eb22,ZZZ,Cyprus,cy,166733630194637,Trojan Economics,Facebook
+8fe39f95-e484-49b8-921a-71497e35d844,Protathlima.com,2023-01-12T14:56:59.276Z,955cbe30-65da-42ea-9dd4-8258f32f99b3,ZZZ,Cyprus,cy,217613964216,Protathlima.com,Facebook
+f701bc57-d32a-4a6e-b14c-a40ca5109faf,Committee on Missing Persons in Cyprus - CMP,2023-01-12T14:56:59.416Z,3678be89-fa5c-4e48-8d28-a80cc610cc71,ZZZ,Cyprus,cy,270149576458416,Committee on Missing Persons in Cyprus - CMP,Facebook
+ce9e618e-6e95-4e24-8c15-7e823d440589,Python tutor for kids,2023-01-12T14:57:01.141Z,c57cfc0e-d606-4858-ae83-1b8f33ba1127,ZZZ,Cyprus,cy,103191889135429,Python tutor for kids,Facebook
+a64279dc-d9aa-4410-9d75-30772608e114,CSR Cyprus,2023-01-12T14:57:00.354Z,99d54f7f-818b-4926-be67-afbff0786ae7,ZZZ,Cyprus,cy,1214213498634598,CSR Cyprus,Facebook
+d381e3a1-46bb-4e65-9bb4-1ca8ad5e0f51,MetLife Cyprus,2023-01-12T14:57:00.117Z,8383dc6c-2695-45e9-b1fb-33b73ec0eb56,ZZZ,Cyprus,cy,100270538451264,MetLife Cyprus,Facebook
+6c52f684-62e2-40db-87c3-c9d1ef5857b2,Santa Run,2023-01-12T14:57:00.180Z,b999f321-dd85-44d7-9a51-8551d74607a2,ZZZ,Cyprus,cy,106703748511223,Santa Run,Facebook
+4036d715-86b1-408c-a09e-07243940e5b1,Buy Home Estate Agency,2023-01-12T14:57:00.436Z,d446fd1a-812b-416b-80ac-806d0ab92798,ZZZ,Cyprus,cy,1185156918201907,Buy Home Estate Agency,Facebook
+84cb2fb2-95f1-42fd-b8f2-0ad08522620d,Peletico,2023-01-12T14:56:59.999Z,4d0d5dfa-aad4-461a-92c5-1966ef43fbcd,ZZZ,Cyprus,cy,1473921552826370,Peletico,Facebook
+b5f9f211-7ec2-41c6-94f3-02d7eb614fdf,Etienne Munganga off,2023-01-12T14:57:01.701Z,27c59f02-530f-4a6b-aaf0-184cb4454ac9,ZZZ,Cyprus,cy,103718928806394,Etienne Munganga off,Facebook
+10681840-8840-4928-9e43-9660b0a0a0e6,Cyprus News,2023-01-12T14:56:59.933Z,916fe0cc-d4a8-4b59-ae75-0b41f49a60f1,ZZZ,Cyprus,cy,177944865550775,Cyprus News,Facebook
+fa0ffc4f-d533-487e-ada2-c58068e8e966,Petromelidis CO,2023-01-12T14:57:01.218Z,ac06213c-aaa4-4645-8b70-55c05b814cf3,ZZZ,Cyprus,cy,1714901512108291,Petromelidis CO,Facebook
+5a6cd944-2c9d-40e1-ab52-56f607041309,Ζήτω η Γυναίκα - Vive La Femme,2023-01-12T14:57:01.040Z,bc07c6de-7834-4a91-9e08-8559dbc8be2e,ZZZ,Cyprus,cy,108129037312906,Ζήτω η Γυναίκα - Vive La Femme,Facebook
+22cebb47-1ca9-4586-a59b-edb9be96be42,Russians in Cyprus stand with Ukraine,2023-01-12T14:56:59.858Z,c47b155b-f603-41e9-962a-7c612be9423a,ZZZ,Cyprus,cy,100724552572361,Russians in Cyprus stand with Ukraine,Facebook
+aaf00991-6542-45bd-ac69-3055d7a9f44c,"Κωνσταντίνος Καλλίμαχος., συγγραφέας-εκπαιδευτικός",2023-01-12T14:56:59.796Z,5b01a853-8ed0-4673-afc6-25031abcdf52,ZZZ,Cyprus,cy,145603398957246,"Κωνσταντίνος Καλλίμαχος., συγγραφέας-εκπαιδευτικός",Facebook
+b30c0f43-7b10-40e6-928a-721aa54a8946,Ο Κόσμος της Βατυλής μας - Vatili Cosmos,2023-01-12T14:57:00.916Z,702e96e7-0706-4d81-93e6-5d8a015ef547,ZZZ,Cyprus,cy,630858423591678,Ο Κόσμος της Βατυλής μας - Vatili Cosmos,Facebook
+0ee0bb81-f6bb-496c-8dca-73da61b6788c,CityChannel,2023-01-12T14:56:59.522Z,16507437-5e83-40cd-add1-9c63db5e1c3f,ZZZ,Cyprus,cy,2074154366187575,CityChannel,Facebook
+9ab6e6be-9b67-43cb-91b1-54667e8fa10c,ΙΔΕΠ Διά Βίου Μάθησης,2023-01-12T14:57:00.857Z,e0d25111-a224-41f9-adc4-02b6805fe1aa,ZZZ,Cyprus,cy,397166420415948,ΙΔΕΠ Διά Βίου Μάθησης,Facebook
+5b3ca449-0613-4784-9f04-588c49bbfaa1,China Nonferrous Metal Mining,2023-01-12T14:57:02.519Z,d07d680b-6276-4f95-9cdf-fca41ea29063,ZZZ,Cyprus,cy,107190881914172,China Nonferrous Metal Mining,Facebook
+96dcdf8c-a0ad-47a1-a757-d589304f4b80,Areti Charidemou & Associates LLC,2023-01-12T14:57:00.338Z,c4072a62-0d43-47aa-8551-b8f44da6059f,ZZZ,Cyprus,cy,280435905308725,Areti Charidemou & Associates LLC,Facebook
+1ec573ee-a5ce-431b-bb08-6400e348ed30,ADVANTAGE AUSTRIA Cyprus,2023-01-12T14:57:00.258Z,1695fc02-ff13-4da5-b645-5ee5cb7baadf,ZZZ,Cyprus,cy,373945326312261,ADVANTAGE AUSTRIA Cyprus,Facebook
+d670b6f3-c073-4e3e-9d19-deb26a6d8708,Lewis Pugh Foundation,2023-01-12T14:57:02.477Z,815ca86c-6366-4ac3-9852-db9eef0739ab,ZZZ,Cyprus,cy,1908125556089705,Lewis Pugh Foundation,Facebook
+474f80ed-0e7c-4fd4-ba28-eeb1919aab32,Κοινοτητα Αγιου Λουκά του Ιατρού,2023-01-12T14:56:59.739Z,c4e6a33d-0be3-4847-8794-d9a49a585412,ZZZ,Cyprus,cy,1635992066705701,Κοινοτητα Αγιου Λουκά του Ιατρού,Facebook
+df5df308-016b-4afc-81cf-ecdef4b58eb9,Jerry Pettit Music,2023-01-12T14:57:01.659Z,f302e7e9-e974-4d5f-997b-2eba8b8c0c84,ZZZ,Cyprus,cy,163593447726948,Jerry Pettit Music,Facebook
+5d3f3b04-be63-44bb-ad02-aeca2511dc46,Friends of the Earth Cyprus - Φίλοι της Γης Κύπρου,2023-01-12T14:56:59.395Z,5bc98cf0-b3f6-4f1f-ab93-7392c5e356de,ZZZ,Cyprus,cy,782825568407464,Friends of the Earth Cyprus - Φίλοι της Γης Κύπρου,Facebook
+07464ae1-65fe-47e2-b31e-5ae86385882d,Zirve Kıbrıs,2023-01-12T14:57:00.199Z,137b38aa-5086-4fdb-8d99-26f9ee63185a,ZZZ,Cyprus,cy,108782227379735,Zirve Kıbrıs,Facebook
+7eafbbb8-407d-4b86-9834-c3694ec438d6,Organisation internationale de la Francophonie (OIF),2023-01-12T14:57:01.261Z,e29f40c1-90cc-436b-b307-c5f190037d5f,ZZZ,Cyprus,cy,164213160355294,Organisation internationale de la Francophonie (OIF),Facebook
+b71daa61-78d7-44c8-94e2-688d46cba1db,Διερευνητική Επιτροπή για τους Αγνοούμενους στην Κύπρο - ΔΕΑ,2023-01-12T14:56:59.437Z,8ed33561-05c9-4258-b06c-471f77c0e345,ZZZ,Cyprus,cy,100986295152390,Διερευνητική Επιτροπή για τους Αγνοούμενους στην Κύπρο - ΔΕΑ,Facebook
+995fba92-6427-4852-af43-45a1ec99c82d,LimassolToday,2023-01-12T14:56:59.516Z,09707eaa-84e7-4f68-bc4f-21bd7fafae01,ZZZ,Cyprus,cy,107778231936147,LimassolToday,Facebook
+9456f5c9-bdc6-451f-9a4f-4f256f4d4a65,Gentle skateboarder,2023-01-12T14:57:02.560Z,acadc130-5612-4e03-9369-16f46d3ac708,ZZZ,Cyprus,cy,103668129270014,Gentle skateboarder,Facebook
+efcd555f-8483-4972-909f-7eb17f5315ea,Cartridge World Cyprus,2023-01-12T14:57:00.276Z,ad1df5fe-0b1f-46a4-b821-4c7a80a96233,ZZZ,Cyprus,cy,231127143565235,Cartridge World Cyprus,Facebook
+656cf801-7d06-43f4-bede-20fefc55aba8,Center for Social Innovation - CSI,2023-01-12T14:56:58.728Z,82ce9dc6-2acb-43ef-a12e-f7930b62ba7f,ZZZ,Cyprus,cy,162863994461073,Center for Social Innovation - CSI,Facebook
+465324b3-9bb7-4ad6-9137-4a214f0dafec,pr: partners,2023-01-12T14:57:00.514Z,61376472-f256-48bd-8140-c84d4e1a16f6,ZZZ,Cyprus,cy,97652873958,pr: partners,Facebook
+fee6f330-439e-4e0c-97ea-7e4fd63984ea,University of Tartu,2023-01-12T14:57:01.916Z,c44dfdcf-a8f5-4d62-9ee8-a4126706dabc,ZZZ,Cyprus,cy,112202581471,University of Tartu,Facebook
+4d60634c-e53f-42a3-b741-8b70ecf4a55e,Source of_8,2023-01-12T14:57:01.945Z,d12cb55d-a928-46f4-8c9f-fe2b930c0c74,ZZZ,Cyprus,cy,101285779453014,Source of_8,Facebook
+24532cb8-91c4-4e8d-aca0-9cf1b2f0be93,GreenDot (Cyprus) Public Co Ltd,2023-01-12T14:57:00.198Z,1f6c8723-ad01-4cb7-a747-e8e65edf28c8,ZZZ,Cyprus,cy,144750648932169,GreenDot (Cyprus) Public Co Ltd,Facebook
+e7bad179-1dff-4cea-8eb9-425f48ef4568,Anern Solar Street Light & Solar Power System,2023-01-12T14:57:01.356Z,81064886-1a57-4b98-8ffa-7c3bb60f9b73,ZZZ,Cyprus,cy,112794927146269,Anern Solar Street Light & Solar Power System,Facebook
+a82f3cc1-4446-4749-ae55-d5d743a247f9,Ace Training & Development Centre,2023-01-12T14:57:00.957Z,a6af7f5a-9e7c-4c47-bd6a-4585775c32a7,ZZZ,Cyprus,cy,925081250968668,Ace Training & Development Centre,Facebook
+8daf78c9-50e6-4692-8f35-dacb249daa69,Church Life Journal,2023-01-12T14:57:01.699Z,7f29b34e-e045-4311-9238-c48e8f7f4aca,ZZZ,Cyprus,cy,128985777176957,Church Life Journal,Facebook
+1e146fbb-e4a4-42c8-86e0-eafe0212dd44,comutyguide,2023-01-12T14:57:01.174Z,964ffa09-da86-4918-b43d-2535d03b88ef,ZZZ,Cyprus,cy,105738502000870,comutyguide,Facebook
+4989452d-175f-48b6-8e2c-1206328ebd34,Top Glory Marine,2023-01-12T14:57:00.558Z,6bdf69e1-e94e-4703-a58b-0f135af96c8e,ZZZ,Cyprus,cy,109529778466997,Top Glory Marine,Facebook
+65efc612-7526-45e3-9d89-b8ea0305f8a3,SDLG,2023-01-12T14:57:01.835Z,2772c185-875d-42ea-a4b4-d98ccbcb4830,ZZZ,Cyprus,cy,607930365971961,SDLG,Facebook
+ee787902-2dc0-4671-a61d-4bb082022330,0923_bt,2023-01-12T14:57:01.476Z,22ee1041-a34f-4e04-b452-4ef1370ff7ac,ZZZ,Cyprus,cy,100641699489141,0923_bt,Facebook
+75f16dc3-a615-4067-bd6e-fb0a32b542ca,Rotary Club Famagusta Cavo Greco,2023-01-12T14:57:00.952Z,4dcd9b2f-0e18-45a0-b004-2e06471fd8b6,ZZZ,Cyprus,cy,108814787688629,Rotary Club Famagusta Cavo Greco,Facebook
+69aaf4b1-27fa-410d-815b-37344878706e,California Youth Leadership Summit,2023-01-12T14:57:01.536Z,8c9f2b22-5a97-4101-9fad-f0811037a604,ZZZ,Cyprus,cy,100877498600309,California Youth Leadership Summit,Facebook
+9468cfa1-d5b8-4c38-b4c4-9b471b8c7fe1,HACEY's Health Initiative,2023-01-12T14:57:01.564Z,9705692c-80b3-467b-9fd7-29900c797cc4,ZZZ,Cyprus,cy,303624683019094,HACEY's Health Initiative,Facebook
+5259a594-7082-4d1f-9828-935e4eaaa849,safir2022zeniq,2023-01-12T14:57:00.577Z,302f1d14-af6b-4710-859a-865d56732b65,ZZZ,Cyprus,cy,111443041737147,safir2022zeniq,Facebook
+20c122be-6602-4b5c-9191-f089ba6e2e2f,Global Digital Inclusion Partnership,2023-01-12T14:57:01.621Z,47892677-3d41-4ae3-a898-ab7f12ad6607,ZZZ,Cyprus,cy,107419398838282,Global Digital Inclusion Partnership,Facebook
+e4c6d5bf-5514-4def-91a6-fe4e89e79435,elifecrineumutol,2023-01-12T14:57:01.394Z,6fcd1f33-45c0-4608-93ba-5b6fa83b651f,ZZZ,Cyprus,cy,109284388452969,elifecrineumutol,Facebook
+d5d57ce7-ea0c-4464-969d-1b50a7150ecf,"Water Board of Nicosia, Cyprus Συμβούλιο Υδατοπρομήθειας Λευκωσίας",2023-01-12T14:56:59.284Z,b5c42a45-92fc-4a51-9880-80cbeb7faa06,ZZZ,Cyprus,cy,1531479000429406,"Water Board of Nicosia, Cyprus Συμβούλιο Υδατοπρομήθειας Λευκωσίας",Facebook
+2b01b8a1-aaa6-4386-9d49-8d9502ed78d7,Cevdet Aktepe,2023-01-12T14:57:01.216Z,793ad9a7-0a4d-4e8d-9be8-1d08eedee704,ZZZ,Cyprus,cy,129802123702968,Cevdet Aktepe,Facebook
+b1c810c6-a758-4749-b2f6-9df993fb1f8a,EMF Cyprus,2023-01-12T14:57:00.400Z,f1e2cea1-39a7-4aee-8927-8820ba515a39,ZZZ,Cyprus,cy,214784672636528,EMF Cyprus,Facebook
+f3dfcdbf-c8b3-4645-ab0b-2f46e0093f27,Sistema Cyprus,2023-01-12T14:57:00.880Z,0a50535b-69c8-40ab-b10d-0deb9d28c007,ZZZ,Cyprus,cy,154135591879028,Sistema Cyprus,Facebook
+519bb67f-a166-4651-b802-99d51299e15f,Sivil Toplum Inisiyatifi - Civil Society Initiative,2023-01-12T14:57:00.616Z,727c0637-dc96-4b3d-8ad5-ba4ac9f5b9a2,ZZZ,Cyprus,cy,108579087212653,Sivil Toplum Inisiyatifi - Civil Society Initiative,Facebook
+e1289d16-d7ef-46fa-98af-3f507be7c7fd,Νατάσα Ιωάννου,2023-01-12T14:56:59.860Z,c46d0992-79e3-41d9-b69c-9dbf5fb193b4,ZZZ,Cyprus,cy,103268228338042,Νατάσα Ιωάννου,Facebook
+69634ebd-cd54-41b8-a4e9-fb2619ad7322,Κυβερνητικές Εξετάσεις 2022 - CIPE,2023-01-12T14:57:00.477Z,eb5275d8-4220-4bc7-9066-50508c5b6aae,ZZZ,Cyprus,cy,451416744924463,Κυβερνητικές Εξετάσεις 2022 - CIPE,Facebook
+81ed799b-d1a1-4a66-89a8-27b073452836,ΕΛΛΑΣ,2023-01-12T14:57:00.403Z,871c96fc-f611-45e8-93e8-d3388845621a,ZZZ,Cyprus,cy,108334171811386,ΕΛΛΑΣ,Facebook
+52aaa6cd-a1e5-4ff0-8c17-6404562fe189,Kıbrıs Türk Haber,2023-01-12T14:56:59.794Z,fe35345e-bf7c-40d6-8ab0-6a880eb5646b,ZZZ,Cyprus,cy,103835992430770,Kıbrıs Türk Haber,Facebook
+0212b3c5-1eef-4642-a8a9-1b113e27667c,helenaoly,2023-01-12T14:57:00.275Z,4a4e5d35-1059-4aaa-8685-bc65d437cdd0,ZZZ,Cyprus,cy,100293999074048,helenaoly,Facebook
+6fab88d3-ab15-403f-89bb-a4914ae999fe,Chinese Embassy in Cyprus,2023-01-12T14:56:59.701Z,42ffdbe4-6ab3-4e51-83a2-ff01f10bf043,ZZZ,Cyprus,cy,100514261565221,Chinese Embassy in Cyprus,Facebook
+930d7f67-ba70-47c9-a433-e1533884a0db,SOS Çocukköyü Derneği,2023-01-12T14:57:00.236Z,ee278614-0955-4e1a-92fb-e53ca6120e9b,ZZZ,Cyprus,cy,121137931324133,SOS Çocukköyü Derneği,Facebook
+d81342e1-1df4-43f3-bc6c-442b126bd28f,Πράσινη Ασπίδα - Green Shield,2023-01-12T14:57:00.100Z,c85e8310-cee7-4054-a127-f3f0c6855509,ZZZ,Cyprus,cy,412152698844876,Πράσινη Ασπίδα - Green Shield,Facebook
+1b2064db-8f09-417b-a23e-7c315b000f54,Velocity Sigorta Acenteliği,2023-01-12T14:56:59.920Z,218ccda8-4372-46cc-8b0e-50f9fbc65b5b,ZZZ,Cyprus,cy,106324937920302,Velocity Sigorta Acenteliği,Facebook
+e50b839b-9e7a-43a3-8e9d-bd11af432653,Φίλοι Μητροπολίτου Λεμεσού Αθανασίου - Friends of Metropolitan Athanasios,2023-01-12T14:56:58.734Z,aacaac01-e045-4223-8c83-3dee1b00352b,ZZZ,Cyprus,cy,106743188642083,Φίλοι Μητροπολίτου Λεμεσού Αθανασίου - Friends of Metropolitan Athanasios,Facebook
+ddc78bdc-6f4e-4965-bb44-a26156770dd1,BizInsight with Guan Xin,2023-01-12T14:57:02.557Z,83c0d729-aefb-4011-b0f1-e4aa3cec753f,ZZZ,Cyprus,cy,101190992007863,BizInsight with Guan Xin,Facebook
+60dc6fb3-2efe-4c48-b0f2-5234fd80333e,IMH,2023-01-12T14:56:59.205Z,6e4d7a35-5d90-4805-955c-b2cfcd28ba1f,ZZZ,Cyprus,cy,316361765093900,IMH,Facebook
+8fb6fe42-cebe-4b7b-8bd4-88b57d8073f3,Tyo_23b,2023-01-12T14:57:02.456Z,c85771cc-b4ff-4ca4-bb82-c3812c87ce1c,ZZZ,Cyprus,cy,105569508981641,Tyo_23b,Facebook
+4837bd0e-aa45-44e8-bb60-40988f75223d,The Zookeeper,2023-01-12T14:57:00.345Z,17ae5ed2-7fe2-49f2-8a1f-f79b3cc620d3,ZZZ,Cyprus,cy,328519283965361,The Zookeeper,Facebook
+c77ced39-c480-413d-aa2f-64eae708cc13,Kıbrıs Dijital Bilişim,2023-01-12T14:56:59.636Z,15a47a7c-26af-4e0f-8869-c4b226828e0a,ZZZ,Cyprus,cy,595673227204543,Kıbrıs Dijital Bilişim,Facebook
+25432f53-d66d-4518-9d45-4d44627188d5,Expo Health Tourism,2023-01-12T14:57:01.997Z,6bff615a-2ae8-4da4-a750-84eae42c6e4d,ZZZ,Cyprus,cy,103023169261614,Expo Health Tourism,Facebook
+1aaffd5d-7bbf-4e65-86fc-16a6b14cdb70,Dialogos,2023-02-07T15:04:58.657Z,6567d0f0-a726-4246-94f9-043283ddc344,ZZZ,Cyprus,cy,715275145197045,Dialogos,Facebook
+e9aaff37-0eaf-4004-a088-9c87c4290495,dreamz_tv231,2023-01-12T14:57:02.149Z,7cec58e2-49a4-4984-bd35-d6514d91e952,ZZZ,Cyprus,cy,100427899578856,dreamz_tv231,Facebook
+812d5a2e-8223-495d-b8e9-31b10a3c8966,NewTv_Cy,2023-02-07T15:04:58.756Z,ad518ebd-19ad-46a5-ab8f-f782e4236c22,ZZZ,Cyprus,cy,110763844019077,NewTv_Cy,Facebook
+bcb8617b-eea1-4db6-b8a0-cc4933b450a1,Global Campus of Human Rights,2023-02-07T15:04:58.745Z,487da010-56cf-4ce5-ad47-9328c7874aa5,ZZZ,Cyprus,cy,194953000528458,Global Campus of Human Rights,Facebook
+6f51c5fe-419e-405a-a02e-8f155efcf55e,Pudong China,2023-01-12T14:57:02.216Z,855fa9a3-b530-4a7f-9f7e-115fc7818eb0,ZZZ,Cyprus,cy,105229127765506,Pudong China,Facebook
+92dfdc50-8278-40cd-87e7-641581ecc008,Reporter,2023-02-07T15:04:58.708Z,6d90394c-54f9-47e4-9708-f9229e643f85,ZZZ,Cyprus,cy,805526552898483,Reporter,Facebook
+8f86bf52-d5c5-49d7-8e78-e6cc1649f0e4,Microsoft CEE,2023-01-12T14:57:00.180Z,cab5b72b-def6-4634-8362-4a5e5d17c993,ZZZ,Cyprus,cy,123142634426874,Microsoft CEE,Facebook
+bec21551-505a-4fe4-b144-27b4be5a5224,البنك الدولي,2023-02-07T15:04:58.757Z,2f412fb1-63bf-41eb-a1f1-38afb6b9073d,ZZZ,Cyprus,cy,142329112477770,البنك الدولي,Facebook
+44df152e-d944-45d0-a286-38447926696f,Growth Hacking Cyprus,2023-01-12T14:57:00.579Z,8a83e416-c1d8-480e-98ca-21e4bcbc569e,ZZZ,Cyprus,cy,100272582471117,Growth Hacking Cyprus,Facebook
+9e0487ae-14bd-484d-9e56-97327b0b5631,Global OTEC,2023-02-07T15:04:58.760Z,0e32993c-89c1-462d-9ff6-a0387d923982,ZZZ,Cyprus,cy,105731052360491,Global OTEC,Facebook
+cb155096-0e4d-4393-8e92-df7fca87155c,Cyprus Aeropolis -   Larnaka and Pafos Airports Official,2023-01-12T14:57:00.948Z,dd7c6380-bb15-4007-9806-771df05cde40,ZZZ,Cyprus,cy,1432008423714556,Cyprus Aeropolis -   Larnaka and Pafos Airports Official,Facebook
+faada73c-7b87-4800-9656-28ef5cc3218d,Элитная недвижимость в Москве,2023-02-07T15:04:58.761Z,7b8c120f-3d7a-4a03-939a-1efb86bdc0f6,ZZZ,Cyprus,cy,101304435646725,Элитная недвижимость в Москве,Facebook
+079552f9-504a-4de7-b37b-ac817b838f2f,Limassol Book Fair,2023-01-12T14:57:01.220Z,17777306-c5ce-45fe-b3eb-807fadae7242,ZZZ,Cyprus,cy,112470811452930,Limassol Book Fair,Facebook
+7d8aaa8f-31ad-4620-853c-6bda5d98e9c1,elina_brevnova,2023-02-07T15:04:58.765Z,f9f5de7d-4f3a-447c-9477-5b25b415d445,ZZZ,Cyprus,cy,102036617851494,elina_brevnova,Facebook
+4e4d5045-3374-4201-ae38-27b7a503e996,Netcast Zone,2023-02-07T15:04:58.642Z,7b7e8bb4-f925-48fa-a346-ba95a2372d65,ZZZ,Cyprus,cy,319277908712118,Netcast Zone,Facebook
+11980e6f-01a7-4894-9317-67a335e80d20,Neorama Education,2023-01-12T14:57:01.260Z,417ba25a-db8b-4e07-b422-99642cfdc1e1,ZZZ,Cyprus,cy,749601998383547,Neorama Education,Facebook
+74484740-8933-40c4-b789-a13a8e0346b0,Millenium Music International,2023-02-09T06:26:42.480Z,5cf33c65-4549-4b1b-b650-0d43e17a88f4,ZZZ,Cyprus,cy,462432084218887,Millenium Music International,Facebook
+e5f2729f-ec10-4778-9e2e-8f5bfe6f0d37,insaviorapp,2023-01-12T14:57:00.475Z,5f8e4e8d-6baa-4039-952a-8f049b9ffbbb,ZZZ,Cyprus,cy,101211439472208,insaviorapp,Facebook
+d7cf92e8-a25d-42b3-b765-48d423de80b4,Forward Green Expo,2023-02-09T06:26:42.479Z,cc630345-c1ab-45e3-834c-3990b15196b5,ZZZ,Cyprus,cy,100956019531499,Forward Green Expo,Facebook
+5d46da72-5570-49a6-8e75-07b0da5eb0d5,therdem.exe,2023-01-12T14:57:01.339Z,336b36d3-3ae6-426c-9ee3-a30674fcefcc,ZZZ,Cyprus,cy,114180160488293,therdem.exe,Facebook
+2db5845b-d7a0-44ad-acf0-fbd99b10405a,WePrint,2023-02-10T10:52:20.965Z,b6c4b074-367b-4e25-a3db-cdde4c80aad8,ZZZ,Cyprus,cy,1326181800848686,WePrint,Facebook
+194903b1-8fbc-4c29-94b8-da613982e395,Bob's Hideout,2023-01-12T14:57:01.415Z,0ab48802-f2ca-4dbd-88e6-f8d95aa93c32,ZZZ,Cyprus,cy,217065798665069,Bob's Hideout,Facebook
+28107b56-1fff-4f65-b961-bf5f6740fa34,Elysee Irrigation,2023-02-07T15:04:58.694Z,84f75150-475c-48ac-a14d-5a07f6095d86,ZZZ,Cyprus,cy,398475986896098,Elysee Irrigation,Facebook
+c077b7c5-c764-43a9-a05f-68559c0baba1,Business Traveller UK,2023-01-12T14:57:01.561Z,18a54904-6e9d-4cc8-a4fd-c962c609cabe,ZZZ,Cyprus,cy,138702552827157,Business Traveller UK,Facebook
+c8a58fc2-3494-4355-a3f2-7cad5a191641,Autospecialist Magazine,2023-02-07T15:04:58.742Z,9611d02d-060c-4ebd-8341-becb5ff58fc5,ZZZ,Cyprus,cy,538181752881417,Autospecialist Magazine,Facebook
+b8b38df4-cb42-4313-84d0-87200b14ff8e,Rilan,2023-01-12T14:57:01.499Z,3c4c02ff-fff2-4ece-86ed-4f63b9ad1a75,ZZZ,Cyprus,cy,235828729934825,Rilan,Facebook
+a90d85da-63f0-4d98-8285-065b997cee39,Шахов Психолог ИП 3,2023-02-08T05:54:33.344Z,5056d760-c279-46d0-8a2f-d9af3dc0692b,ZZZ,Cyprus,cy,100462809441391,Шахов Психолог ИП 3,Facebook
+96a6ff3e-4bd1-4677-b147-c22765c966b8,Guardian Glass Middle East & Africa,2023-01-12T14:57:01.038Z,248ce78f-0c79-46c7-8cf5-cea4cac03610,ZZZ,Cyprus,cy,1931310293779356,Guardian Glass Middle East & Africa,Facebook
+f9cbfa27-a163-49ac-871e-bb633e42151e,Morehackz - The R Page,2023-02-08T05:54:33.419Z,50b40285-65c8-4a9f-9d9c-c8ed81724807,ZZZ,Cyprus,cy,103843752435966,Morehackz - The R Page,Facebook
+bc9c40a9-21ae-4cc6-8b0f-2353bbfd2cba,Strausswatercyprus,2023-02-12T10:52:05.253Z,71e2389a-a26c-44a3-a7a8-13eb216ff7c5,ZZZ,Cyprus,cy,380183215402401,Strausswatercyprus,Facebook
+acb48e20-18d9-4da6-baa9-f734f51e152d,Discover Daxing,2023-02-13T10:52:23.250Z,48981cd4-f5c9-4179-9d67-397bcdf1d41c,ZZZ,Cyprus,cy,106282688304118,Discover Daxing,Facebook
+cb10fee5-993b-4758-85bf-378365fef946,sametyildizz,2023-01-12T14:57:00.997Z,6db0d330-559b-4f40-b752-9e3fed58fcab,ZZZ,Cyprus,cy,105520415170024,sametyildizz,Facebook
+61c88b3e-243f-4b5c-a74d-3f95c282ae12,EPIPHANIOU BATH & FLOORS,2023-02-16T10:52:12.394Z,7c00a9fc-52ee-4874-b8b3-384eb3ff5008,ZZZ,Cyprus,cy,403244006371424,EPIPHANIOU BATH & FLOORS,Facebook
+f452d4ed-b6f5-4af1-bcb5-d8b50cdf66fe,Πανεπιστημιακές Εκδόσεις Κρήτης,2023-01-12T14:57:00.894Z,8d143546-627d-4ae6-b528-07eafef28083,ZZZ,Cyprus,cy,204662496270352,Πανεπιστημιακές Εκδόσεις Κρήτης,Facebook
+35f4d220-4325-4bfa-888c-b11d8e74c84d,"CERV Cyprus - EU ""Citizens, Equality, Rights & Values"" Contact Point",2023-02-16T10:52:12.394Z,e23538e0-dbc4-4134-8c5a-38ca8bc4340d,ZZZ,Cyprus,cy,108551644728285,"CERV Cyprus - EU ""Citizens, Equality, Rights & Values"" Contact Point",Facebook
+0ac3d4ce-da6d-498e-a797-6cbcd43913d8,Daikin Cyprus,2023-02-16T10:52:12.418Z,1fb49ef9-97f7-4f8f-8ff7-0d4669325aa7,ZZZ,Cyprus,cy,102258174850356,Daikin Cyprus,Facebook
+1c08d405-2c04-4ac5-b915-3974dd1d52c3,Anytime Online Cyprus,2023-01-12T14:57:00.855Z,691d6ba7-871a-486b-8209-7d17e7eb1efc,ZZZ,Cyprus,cy,295407850902725,Anytime Online Cyprus,Facebook
+06f20a4f-50d8-41d4-b385-0d75d2a318b1,Petrolina (Holdings) Public Ltd,2023-02-17T10:52:02.350Z,0bf7fcf6-5ab8-48e0-9c45-a19d9453ac8c,ZZZ,Cyprus,cy,189509387769366,Petrolina (Holdings) Public Ltd,Facebook
+23058b20-8072-43aa-8028-7a10ecf6c5e5,Διεθνές Φεστιβάλ Λευκωσίας / Nicosia International Festival,2023-01-12T14:57:00.623Z,6100b628-7a46-445f-9787-9e72999ac8e5,ZZZ,Cyprus,cy,103857654352458,Διεθνές Φεστιβάλ Λευκωσίας / Nicosia International Festival,Facebook
+260a7789-1dae-435e-94bb-303d0e670ac4,ListenBlitz,2023-02-17T10:52:02.391Z,f3487fa0-2b91-446a-b119-643b45275ffa,ZZZ,Cyprus,cy,101161028460013,ListenBlitz,Facebook
+8c094a6d-d040-4851-b61c-133d8954f302,Politis.com.cy - Εφημερίδα Πολίτης,2023-01-12T14:57:00.415Z,1456bb84-a212-4865-b0b3-b8be23007682,ZZZ,Cyprus,cy,295554127168157,Politis.com.cy - Εφημερίδα Πολίτης,Facebook
+0ccd4cf9-51be-4b3e-9a69-84cf3f2455f1,CFS Film School,2023-02-19T10:52:28.713Z,00607891-f15a-43df-b935-221f99793bc1,ZZZ,Cyprus,cy,100424228045757,CFS Film School,Facebook
+d03afa0f-0b83-478f-8b7f-44e334caf85b,Telintel,2023-02-19T10:52:28.752Z,9273deaa-eb2f-431a-8c27-1c545f3a3b54,ZZZ,Cyprus,cy,675627625962585,Telintel,Facebook
+dafbe1ec-e9c7-4ddb-8bef-40aea6987f42,Χασαποταβέρνα Φάε-Πκιέ,2023-01-12T14:57:00.342Z,c2f30b47-ca2f-4926-9132-bd150bd935a8,ZZZ,Cyprus,cy,234609457109553,Χασαποταβέρνα Φάε-Πκιέ,Facebook
+ff5dd2c0-626e-4fae-80ff-b7b7b25d00c8,MINI,2023-02-19T10:52:28.762Z,7ce972b7-5349-4049-b682-d81668901de5,ZZZ,Cyprus,cy,224650207565871,MINI,Facebook
+f43216ad-065c-459f-bccc-3888a24c39fd,Cyprus International Women of Today,2023-01-12T14:57:00.294Z,fb8dd80d-323e-42d5-a054-2345bfebc93a,ZZZ,Cyprus,cy,612092062134966,Cyprus International Women of Today,Facebook
+e03ce891-cf35-46e3-bb01-01e00ca5b712,Novartis Cyprus,2023-02-19T10:52:28.701Z,cf5e308d-61b9-4dbf-988a-f564c4831d99,ZZZ,Cyprus,cy,103941935314565,Novartis Cyprus,Facebook
+406ed7bc-7f02-4ad6-b73f-95040ce86b3f,Marks & Spencer - Symeonides,2023-01-12T14:56:59.199Z,cee0e3cc-b02b-4faa-914c-ed45fa215a0b,ZZZ,Cyprus,cy,930044663725346,Marks & Spencer - Symeonides,Facebook
+ba29cb98-29a3-482a-a0e0-a44aa9b8d742,Товариство українсько-кіпрської дружби,2023-02-19T10:52:28.721Z,2619eeb3-2262-47e5-9ab4-f74721a11beb,ZZZ,Cyprus,cy,100555837970375,Товариство українсько-кіпрської дружби,Facebook
+03b52387-f864-47e0-a996-dd5beba7098c,RESET-Research and Education in Social Empowerment and Transformation,2023-01-12T14:56:59.298Z,a7264c0b-9af3-4c9a-93ef-f9f5c9eef55c,ZZZ,Cyprus,cy,108850224028540,RESET-Research and Education in Social Empowerment and Transformation,Facebook
+246764c9-4ff2-4eae-9917-adddb38aa791,Ant1 Live News,2023-08-21T05:06:46.778Z,20405603-21b0-417d-8657-6d467977a945,ZZZ,Cyprus,cy,227364484047452,Ant1 Live News,Facebook
+463867bd-6e53-481b-983d-9b6f86d79940,City Free Press,2023-01-12T14:56:59.958Z,57b029a5-d5ae-4d6b-a710-28f3a0ed0bee,ZZZ,Cyprus,cy,53815007756,City Free Press,Facebook
+0983f6a2-f13a-42be-a0bd-aa372c2d42f0,4ups_,2023-02-20T10:52:13.747Z,12600bd3-cdc9-45c3-9ca8-041b0b95e409,ZZZ,Cyprus,cy,105275475530600,4ups_,Facebook
+59091b26-fb99-4b45-8937-bbeccdcf09a9,Sustainable Mobility Cyprus,2023-01-12T14:56:59.800Z,9613b1cf-a2ec-425a-bdd8-3bc59af31edf,ZZZ,Cyprus,cy,103717902272130,Sustainable Mobility Cyprus,Facebook
+226e1abe-0930-4620-9e66-48a380fc9d5d,No Quarter History Hunters,2023-02-20T10:52:13.747Z,1e551c08-7869-47db-ab1f-1fe17534ad3b,ZZZ,Cyprus,cy,235436705094824,No Quarter History Hunters,Facebook
+1cafb0ad-3232-4c36-8a3b-96f257420770,Hatırlarmısın,2023-02-21T10:52:10.650Z,2d52e201-0379-4619-91e1-08d21bda2424,ZZZ,Cyprus,cy,111232785219170,Hatırlarmısın,Facebook
+f5eba73f-e99f-49e6-af43-6d5dd1f31ac3,Bank of Cyprus,2023-01-12T14:56:59.695Z,f6265d18-5dbb-45e3-aca7-5381611fc2cb,ZZZ,Cyprus,cy,1652917534931381,Bank of Cyprus,Facebook
+8da9e651-3082-40b5-a8fb-eb04995e7ab2,keepitPromo,2023-02-24T10:52:16.864Z,e648e4f5-543d-49fe-afbe-26ac3029e0b1,ZZZ,Cyprus,cy,188230148890,keepitPromo,Facebook
+17dbb5f1-1785-425e-838d-307e444ca790,Sigmalive,2023-01-12T14:56:59.517Z,4a141f35-1815-47ae-bf35-c4f741adbbd9,ZZZ,Cyprus,cy,234734333579,Sigmalive,Facebook
+b4f0fd03-eae7-4a72-80d4-55d2ea2f7872,Energy China,2023-02-25T10:52:17.791Z,6fd60d29-c686-4ae0-acdd-160c13eb06f0,ZZZ,Cyprus,cy,345840486219924,Energy China,Facebook
+18edd7ad-1b26-4bd3-b2ad-4d02686901a4,Portal Mel Cajuina,2023-01-12T14:57:01.841Z,6a34e3ed-468f-4fde-8eb1-bdbbd3618f35,ZZZ,Cyprus,cy,110839298285111,Portal Mel Cajuina,Facebook
+0f42f02e-57b6-4a80-a6c4-1ce9f9721a53,MPM Distributors PPD,2023-02-25T10:52:17.782Z,4ade3c35-af6d-46b6-a933-8c414d528346,ZZZ,Cyprus,cy,1492530154361419,MPM Distributors PPD,Facebook
+6882e740-1946-4749-872f-98e7b516d8ad,CCECC Nigeria,2023-01-12T14:57:02.238Z,4d363a40-cceb-440f-99e6-f91a19553659,ZZZ,Cyprus,cy,113940237050170,CCECC Nigeria,Facebook
+112f1141-168b-4782-a892-37c9927e1a66,itsAbby,2023-01-12T14:57:02.196Z,3eaf924d-d2ec-40e4-9ee8-4ff8627969f8,ZZZ,Cyprus,cy,103043374799622,itsAbby,Facebook
+ff826caa-73c4-4838-8d53-4c37402a12b5,Hadjiyiannis,2023-02-26T10:52:20.533Z,d90e0bef-3cfe-4419-b4e2-f46e0174367e,ZZZ,Cyprus,cy,1427826520803952,Hadjiyiannis,Facebook
+4bdbac0d-ae5f-4dfe-8fa7-49fc9bb54818,Green Energy Group,2023-01-12T14:57:00.599Z,f60d6fac-caf2-4172-afb1-04c73d189dc9,ZZZ,Cyprus,cy,260938710617074,Green Energy Group,Facebook
+bb01a00a-ce73-4f03-9d64-730e9df58087,"Θέατρο Σκιών Χαράλαμπος , Αντρέας και Έλενα Χαραλάμπους",2023-02-08T05:54:33.297Z,12516c0e-1211-4ce4-8727-de3d58884f98,ZZZ,Cyprus,cy,1446635865585411,"Θέατρο Σκιών Χαράλαμπος , Αντρέας και Έλενα Χαραλάμπους",Facebook
+cbb26e86-db89-47d9-ba80-c176c46b3a03,arboretum.haus,2023-01-12T14:57:00.674Z,14cbf741-2722-49a3-97c7-32f53346da57,ZZZ,Cyprus,cy,105211595235322,arboretum.haus,Facebook
+48e6769c-e92e-479d-8344-58b346eb0f99,勵馨基金會 The Garden of Hope Foundation,2023-02-23T10:52:15.329Z,d0370019-5ddb-473a-926a-488994351af4,ZZZ,Cyprus,cy,124473380937123,勵馨基金會 The Garden of Hope Foundation,Facebook
+1f5d0841-75e6-4271-9298-f5ce9e9c9852,StudentLife Academy,2023-01-12T14:57:01.095Z,17ce4cb1-ec74-41bd-ac86-2b12d10d9bdb,ZZZ,Cyprus,cy,143250606370308,StudentLife Academy,Facebook
+a3f5ffa4-f6c2-41bc-8dd7-36d4b1e7f852,Comfort Benjamin,2023-02-27T10:52:15.315Z,9e90881c-4211-467e-8ef0-e1ebf236eee8,ZZZ,Cyprus,cy,155248158653090,Comfort Benjamin,Facebook
+f3d802ca-53b9-4959-8f85-1373c7e2b0da,Frontida,2023-05-02T06:51:59.998Z,9e54ec70-1264-4c59-86b0-b185508b1104,ZZZ,Cyprus,cy,100987019515000,Frontida,Facebook
+10facb1f-e404-4168-b1b2-e89ac1237772,Cyprus Chamber of Commerce and Industry,2023-06-15T06:52:06.450Z,1024b87f-51c3-4878-8ddd-e1f578ec462b,ZZZ,Cyprus,cy,514572185405623,Cyprus Chamber of Commerce and Industry,Facebook
+11c60abd-0199-4fa6-be4a-a3254cc658ce,Civil Society Advocates,2023-03-17T10:52:19.207Z,d79c5e96-40ea-46c6-bd04-75fc3061ead6,ZZZ,Cyprus,cy,235477756998183,Civil Society Advocates,Facebook
+6bb1e4d8-e9a8-454c-b1c4-05647f2e5315,Coca-Cola HBC Cyprus,2023-06-28T05:07:02.481Z,50b4084c-7eba-496e-ae97-1855713b6f25,ZZZ,Cyprus,cy,237392416610109,Coca-Cola HBC Cyprus,Facebook
+45e44abe-6b96-4a4d-8fd5-de26b809f730,AstroBank,2023-10-05T05:07:05.003Z,f2d97905-a749-4aa2-8c06-e10835360678,ZZZ,Cyprus,cy,1368112936586623,AstroBank,Facebook
+49c6a5da-2039-4e68-a4cb-2ef6fe45f762,British Council Cyprus,2023-10-31T05:41:47.370Z,faf2d010-f5bc-49da-8b7f-0451c4020313,ZZZ,Cyprus,cy,133903536624602,British Council Cyprus,Facebook
+1b1aa35b-2075-48fc-9b51-4c79f2a12f39,FIRM LIVE,2023-07-01T05:06:58.249Z,3d860540-6b44-4d5d-be24-02c947d3a130,ZZZ,Cyprus,cy,100540399650682,FIRM LIVE,Facebook
+4169db84-9bcd-4070-8f9c-c0aaa7cc3b4b,Cyprus Sustainable Tourism Initiative,2023-07-01T05:06:58.267Z,169f6220-7517-41f1-a00c-5ea19637ef66,ZZZ,Cyprus,cy,1536128139975378,Cyprus Sustainable Tourism Initiative,Facebook
+fdec6cac-a3d8-4d84-8aff-1dad2d5361ff,"Keep our Sand and Sea Plastic Free, Destination Zero Plastic in Cyprus",2023-11-17T05:05:49.946Z,0807340d-79b4-4970-a287-4a1ffe8fda72,ZZZ,Cyprus,cy,104705784234532,"Keep our Sand and Sea Plastic Free, Destination Zero Plastic in Cyprus",Facebook
+d37af92e-5d41-4637-83f4-c78778a9a43d,Abdullah Korkmazhan,2023-06-13T06:52:12.753Z,9036d83b-b800-40fb-a81f-33b1bff3f030,ZZZ,Cyprus,cy,104300622679204,Abdullah Korkmazhan,Facebook
+00d8e3bd-a8ad-40da-be9c-15f1a5ec2963,Europa Uomo Cyprus,2023-09-22T04:10:51.001Z,4025c644-77c5-4f90-bea7-761ac2db476a,ZZZ,Cyprus,cy,1709787949084185,Europa Uomo Cyprus,Facebook
+fac2623d-fc64-495c-87a8-8e5333f0d22f,Infocredit Professional Education,2023-03-10T10:52:05.976Z,b0a9ef83-12e8-477c-9e6b-91d5a8e670c9,ZZZ,Cyprus,cy,110947934593991,Infocredit Professional Education,Facebook
+c9792ca5-442f-4c46-89e2-7693775fe202,Cyprus Youth Council.Συμβούλιο Νεολαίας Κύπρου.Kıbrıs Gençlik Konseyi,2023-03-14T10:51:52.432Z,d9794f6b-5879-4307-a89f-f85b8e49b5bb,ZZZ,Cyprus,cy,452945224795346,Cyprus Youth Council.Συμβούλιο Νεολαίας Κύπρου.Kıbrıs Gençlik Konseyi,Facebook
+27e51dc2-7b5d-4857-be12-527b1acc5999,FEMME FEST Cyprus,2023-03-30T10:51:59.648Z,94a4eb1f-7b65-4524-930c-ece70ec0dd6f,ZZZ,Cyprus,cy,104581965528448,FEMME FEST Cyprus,Facebook
+9ecfb5e8-4754-4b21-9c6d-86fe62e2a9c3,Black Lemon TV,2023-10-15T05:05:55.034Z,358cb565-4361-41e8-9bbf-4b15401c3aff,ZZZ,Cyprus,cy,103724056717679,Black Lemon TV,Facebook
+cd966dff-5c9d-43c3-89c8-76ede24ef736,GDA Sports Ltd,2023-11-05T05:05:52.331Z,19533105-f634-4d93-887e-56c38fa9c896,ZZZ,Cyprus,cy,109377051701569,GDA Sports Ltd,Facebook
